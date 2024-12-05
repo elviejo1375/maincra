@@ -1,229 +1,732 @@
-[05Dec2024 21:43:42.349] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[05Dec2024 21:43:42.352] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[05Dec2024 21:43:43.120] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Dec2024 21:43:43.164] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/maincra/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Dec2024 21:43:43.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/maincra/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 21:43:43.685] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/maincra/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 21:43:43.686] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/maincra/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 21:43:43.686] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/maincra/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 21:43:43.972] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[05Dec2024 21:43:43.974] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/maincra/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[05Dec2024 21:43:43.975] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/maincra/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
-[05Dec2024 21:43:43.975] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[05Dec2024 21:43:46.708] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Dec2024 21:43:46.948] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[05Dec2024 21:43:47.021] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 21:43:47.027] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 21:43:47.210] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[05Dec2024 21:43:47.211] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[05Dec2024 21:43:47.230] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 124 options available, 0 override(s) found
-[05Dec2024 21:43:47.238] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 21:43:47.266] [main/WARN] [mixin/]: Reference map 'expanded_ecosphere-forge-refmap.json' for wwoo.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 21:43:47.357] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 21:43:48.991] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[05Dec2024 21:43:48.992] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
-[05Dec2024 21:43:49.052] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
-[05Dec2024 21:43:49.053] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
-[05Dec2024 21:43:49.142] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
-[05Dec2024 21:43:49.143] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
-[05Dec2024 21:43:49.145] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[05Dec2024 21:43:49.145] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
-[05Dec2024 21:43:49.146] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[05Dec2024 21:43:49.147] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
-[05Dec2024 21:43:49.148] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
-[05Dec2024 21:43:49.148] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
-[05Dec2024 21:43:49.294] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[05Dec2024 21:43:54.116] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zkl000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[05Dec2024 21:43:55.488] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
-[05Dec2024 21:43:55.707] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
-[05Dec2024 21:43:56.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Dec2024 21:43:56.008] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[05Dec2024 21:43:56.010] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[05Dec2024 21:43:56.012] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[05Dec2024 21:43:56.017] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[05Dec2024 21:43:56.026] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[05Dec2024 21:43:56.034] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[05Dec2024 21:43:56.036] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[05Dec2024 21:43:56.235] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[05Dec2024 21:43:56.329] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[05Dec2024 21:43:56.399] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
-[05Dec2024 21:43:56.611] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Dec2024 21:43:56.613] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Dec2024 21:43:57.285] [modloading-worker-0/INFO] [Expanded Ecosphere/]: Loading Expanded Ecosphere
-[05Dec2024 21:43:57.888] [modloading-worker-0/INFO] [Expanded Ecosphere/]: [Expanded Ecosphere Updater] Found no updates
-[05Dec2024 21:43:57.987] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[05Dec2024 21:43:58.533] [modloading-worker-0/INFO] [com.epherical.epherolib.config.CommonConfig/]: Creating default config file: croptopia_v3.conf
-[05Dec2024 21:43:58.750] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[05Dec2024 21:43:58.845] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
-[05Dec2024 21:43:58.853] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
-[05Dec2024 21:43:58.855] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[05Dec2024 21:43:59.212] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[05Dec2024 21:43:59.230] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 1 milliseconds
-[05Dec2024 21:43:59.243] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[05Dec2024 21:43:59.246] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[05Dec2024 21:43:59.248] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[05Dec2024 21:43:59.251] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[05Dec2024 21:43:59.253] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[05Dec2024 21:43:59.259] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[05Dec2024 21:43:59.261] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[05Dec2024 21:43:59.264] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[05Dec2024 21:43:59.266] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[05Dec2024 21:43:59.396] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[05Dec2024 21:43:59.414] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[05Dec2024 21:43:59.424] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[05Dec2024 21:43:59.428] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[05Dec2024 21:43:59.430] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[05Dec2024 21:43:59.432] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[05Dec2024 21:43:59.441] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
-[05Dec2024 21:43:59.458] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
-[05Dec2024 21:43:59.477] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
-[05Dec2024 21:43:59.514] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
-[05Dec2024 21:43:59.520] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
-[05Dec2024 21:43:59.522] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
-[05Dec2024 21:43:59.522] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
-[05Dec2024 21:43:59.677] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[05Dec2024 21:44:02.953] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.953] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.953] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.953] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.954] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.954] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.954] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.954] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.955] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.955] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.955] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.955] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.956] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.956] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:02.956] [main/INFO] [Create Deco/]: placard tooltip was null
-[05Dec2024 21:44:04.119] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
-[05Dec2024 21:44:04.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[05Dec2024 21:44:04.229] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
-[05Dec2024 21:44:04.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[05Dec2024 21:44:04.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
-[05Dec2024 21:44:04.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[05Dec2024 21:44:04.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[05Dec2024 21:44:04.320] [main/INFO] [journeymap/]: Initializing Packet Registries
-[05Dec2024 21:44:04.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[05Dec2024 21:44:04.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[05Dec2024 21:44:04.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
-[05Dec2024 21:44:04.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Dec2024 21:44:04.483] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[05Dec2024 21:44:04.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[05Dec2024 21:44:04.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
-[05Dec2024 21:44:04.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[05Dec2024 21:44:04.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[05Dec2024 21:44:04.529] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[05Dec2024 21:44:04.529] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[05Dec2024 21:44:04.529] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
-[05Dec2024 21:44:04.588] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.p3pp3rf1y.sophisticatedstorage.compat.jade.StorageJadePlugin
-[05Dec2024 21:44:04.593] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[05Dec2024 21:44:04.594] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[05Dec2024 21:44:04.595] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[05Dec2024 21:44:04.603] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[05Dec2024 21:44:04.606] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[05Dec2024 21:44:04.607] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
-[05Dec2024 21:44:04.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
-[05Dec2024 21:44:04.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
-[05Dec2024 21:44:04.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.3 Target: null
-[05Dec2024 21:44:04.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[05Dec2024 21:44:05.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[05Dec2024 21:44:05.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[05Dec2024 21:44:05.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[05Dec2024 21:44:05.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
-[05Dec2024 21:44:05.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
-[05Dec2024 21:44:05.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[05Dec2024 21:44:05.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
-[05Dec2024 21:44:05.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[05Dec2024 21:44:05.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[05Dec2024 21:44:05.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[05Dec2024 21:44:05.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
-[05Dec2024 21:44:05.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[05Dec2024 21:44:06.167] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[05Dec2024 21:44:06.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[05Dec2024 21:44:06.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[05Dec2024 21:44:06.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[05Dec2024 21:44:06.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[05Dec2024 21:44:11.856] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Dec2024 21:44:17.173] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/maincra/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23245!/assets/.mcassetsroot' uses unexpected schema
-[05Dec2024 21:44:17.174] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/maincra/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23245!/data/.mcassetsroot' uses unexpected schema
-[05Dec2024 21:44:19.791] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Dec2024 21:44:21.402] [Thread-6/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/maincra/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
-[05Dec2024 21:44:21.532] [Thread-6/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/maincra/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
-[05Dec2024 21:44:21.946] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 50 recipes
-[05Dec2024 21:44:21.949] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
-[05Dec2024 21:44:22.018] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_mason_table_upgrade_from_storage_chipped_mason_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/mason_table_upgrade'
-[05Dec2024 21:44:22.038] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
-[05Dec2024 21:44:22.040] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_glassblower_upgrade_from_storage_chipped_glassblower_upgrade: Unknown item id 'sophisticatedstorage:chipped/glassblower_upgrade'
-[05Dec2024 21:44:22.041] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_carpenters_table_upgrade_from_backpack_chipped_carpenters_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/carpenters_table_upgrade'
-[05Dec2024 21:44:22.050] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_alchemy_bench_upgrade_from_backpack_chipped_alchemy_bench_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade'
-[05Dec2024 21:44:22.061] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_loom_table_upgrade_from_storage_chipped_loom_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/loom_table_upgrade'
-[05Dec2024 21:44:22.088] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_botanist_workbench_upgrade_from_backpack_chipped_botanist_workbench_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/botanist_workbench_upgrade'
-[05Dec2024 21:44:22.093] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_tinkering_table_upgrade_from_backpack_chipped_tinkering_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/tinkering_table_upgrade'
-[05Dec2024 21:44:22.109] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
-[05Dec2024 21:44:22.133] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_loom_table_upgrade_from_backpack_chipped_loom_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/loom_table_upgrade'
-[05Dec2024 21:44:22.142] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_carpenters_table_upgrade_from_storage_chipped_carpenters_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/carpenters_table_upgrade'
-[05Dec2024 21:44:22.209] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_botanist_workbench_upgrade_from_storage_chipped_botanist_workbench_upgrade: Unknown item id 'sophisticatedstorage:chipped/botanist_workbench_upgrade'
-[05Dec2024 21:44:22.211] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_glassblower_upgrade_from_backpack_chipped_glassblower_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/glassblower_upgrade'
-[05Dec2024 21:44:22.213] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_mason_table_upgrade_from_backpack_chipped_mason_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/mason_table_upgrade'
-[05Dec2024 21:44:22.223] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_tinkering_table_upgrade_from_storage_chipped_tinkering_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/tinkering_table_upgrade'
-[05Dec2024 21:44:22.225] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_alchemy_bench_upgrade_from_storage_chipped_alchemy_bench_upgrade: Unknown item id 'sophisticatedstorage:chipped/alchemy_bench_upgrade'
-[05Dec2024 21:44:22.286] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8354 advancements
-[05Dec2024 21:44:22.331] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[05Dec2024 21:44:22.340] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[05Dec2024 21:44:27.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Dec2024 21:44:27.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Dec2024 21:44:27.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Dec2024 21:44:27.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Dec2024 21:44:28.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Dec2024 21:44:28.073] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Dec2024 21:44:28.150] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Dec2024 21:44:28.150] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Dec2024 21:44:28.150] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Dec2024 21:44:28.151] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Dec2024 21:44:28.170] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Dec2024 21:44:28.570] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
-[05Dec2024 21:44:28.680] [Server thread/INFO] [spark/]: Starting background profiler...
-[05Dec2024 21:44:29.001] [Server thread/INFO] [Framework/]: Loading server configs...
-[05Dec2024 21:44:29.027] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[05Dec2024 21:44:29.275] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[05Dec2024 21:44:29.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Dec2024 21:44:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Dec2024 21:44:36.891] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.892] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.892] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.893] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.893] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.894] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.894] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.895] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.895] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:36.896] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 21:44:37.352] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[05Dec2024 21:44:37.815] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5463 ms
-[05Dec2024 21:44:37.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.654s)! For help, type "help"
-[05Dec2024 21:44:37.871] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Dec2024 21:45:29.769] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b0e12e9[id=<null>,name=UnViejitoFeo,properties={},legacy=false] (/127.110.178.211:45257) lost connection: Disconnected
-[05Dec2024 21:45:44.816] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[05Dec2024 21:45:44.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnViejitoFeo[/127.110.178.211:51191] logged in with entity id 344 at (-59.5308489093391, 72.0, 29.17660837353269)
-[05Dec2024 21:45:44.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo joined the game
-[05Dec2024 21:45:45.262] [Server thread/INFO] [Jade/]: Syncing config to UnViejitoFeo (04679fe3-2b04-38ff-8008-2f0dd32c299d)
-[05Dec2024 21:47:01.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Alex's Mobs]
-[05Dec2024 21:47:56.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo lost connection: Disconnected
-[05Dec2024 21:47:56.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo left the game
-[05Dec2024 21:48:00.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[05Dec2024 21:48:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[05Dec2024 21:48:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[05Dec2024 21:48:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[05Dec2024 21:48:02.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05Dec2024 21:48:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05Dec2024 21:48:03.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05Dec2024 21:48:03.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05Dec2024 21:48:03.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05Dec2024 21:48:03.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05Dec2024 21:48:03.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[05Dec2024 21:48:03.719] [Server thread/INFO] [Framework/]: Unloading server configs...
-[05Dec2024 21:48:03.720] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[05Dec2024 21:48:03.722] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[05Dec2024 21:48:03.727] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Dec2024 22:06:30.703] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Dec2024 22:06:30.706] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Dec2024 22:06:31.529] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Dec2024 22:06:31.572] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/maincra/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Dec2024 22:06:32.038] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/maincra/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 22:06:32.039] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/maincra/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 22:06:32.040] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/maincra/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 22:06:32.041] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/maincra/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 22:06:32.291] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[05Dec2024 22:06:32.292] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/maincra/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[05Dec2024 22:06:32.292] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/maincra/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
+[05Dec2024 22:06:32.293] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[05Dec2024 22:06:35.151] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Dec2024 22:06:35.350] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Dec2024 22:06:35.400] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 22:06:35.412] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 22:06:35.558] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[05Dec2024 22:06:35.564] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[05Dec2024 22:06:35.582] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 132 options available, 0 override(s) found
+[05Dec2024 22:06:35.594] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 22:06:35.609] [main/WARN] [mixin/]: Reference map 'expanded_ecosphere-forge-refmap.json' for wwoo.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 22:06:35.691] [main/INFO] [Puzzles Lib/]: Loading 87 mods:
+	- alexsmobs 1.22.9
+	- ambientsounds 6.1.3
+	- another_furniture 1.20.1-3.0.1
+	- appleskin 2.5.1+mc1.20.1
+	- architectury 9.2.14
+	- ars_nouveau 4.12.6
+	- artifacts 9.5.13
+		\-- expandability 9.0.4
+	- balm 7.3.9
+		\-- kuma_api 20.1.8
+	- bellsandwhistles 0.4.3-1.20.x
+	- botarium 2.3.4
+	- carryon 2.1.2.7
+	- cfm 7.0.0-pre36
+	- citadel 2.6.0
+	- cloth_config 11.1.136
+	- connectedglass 1.1.12
+	- constructionwand 1.20.1-2.11
+	- corpse 1.20.1-1.0.18
+	- cosmeticarmorreworked 1.20.1-v1a
+	- create 0.5.1.j
+		\-- flywheel 0.6.11-13
+	- create_central_kitchen 1.3.12
+		|-- create_dragon_lib 1.4.3
+		\-- mixinextras 0.2.0
+	- create_enchantment_industry 1.2.9.d
+	- create_new_age 1.1.2
+	- createdeco 2.0.2-1.20.1-forge
+	- creativecore 2.12.24
+	- creeperoverhaul 3.0.2
+	- cristellib 1.1.6
+	- croptopia 3.0.4
+	- curios 5.11.0+1.20.1
+	- decorative_blocks 4.1.3
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- entityculling 1.7.1
+	- epherolib 0.1.2
+	- expanded_ecosphere 3.2.4
+	- farmersdelight 1.20.1-1.2.6
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- fpsreducer 1.20-2.5
+	- framework 0.7.12
+	- ftbchunks 2001.3.4
+	- ftblibrary 2001.2.6
+	- ftbteams 2001.3.0
+	- ftbultimine 2001.1.5
+	- fusion 1.1.1
+	- geckolib 4.4.9
+	- handcrafted 3.0.6
+	- inventoryhud 3.4.26
+	- jade 11.11.1+forge
+	- jei 15.20.0.105
+	- journeymap 5.10.3
+	- kotlinforforge 4.11.0
+	- leavesbegone 8.0.0
+	- mcwdoors 1.1.1
+	- mcwfences 1.1.2
+	- mcwfurnitures 3.3.0
+	- mcwlights 1.1.0
+	- mcwpaintings 1.0.5
+	- mcwpaths 1.0.5
+	- mcwroofs 2.3.1
+	- mcwtrpdoors 1.1.3
+	- mcwwindows 2.3.0
+	- minecraft 1.20.1
+	- phosphophyllite 0.7.0-alpha.0.1
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- railways 1.6.7+forge-mc1.20.1
+	- refurbished_furniture 1.0.8
+	- resourcefulconfig 2.1.2
+	- resourcefullib 2.1.29
+	- sliceanddice 3.3.0
+	- sophisticatedbackpacks 3.20.17.1150
+	- sophisticatedcore 0.7.12.805
+	- sophisticatedstorage 0.11.2.971
+	- spark 1.10.53
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.17+a
+	- terrablender 3.0.1.7
+	- trashcans 1.0.18b
+	- visualworkbench 8.0.0
+	- waystones 14.1.6
+	- zeta 1.0-24
+[05Dec2024 22:06:35.710] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 22:06:37.291] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[05Dec2024 22:06:37.292] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[05Dec2024 22:06:37.321] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[05Dec2024 22:06:37.321] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
+[05Dec2024 22:06:37.437] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[05Dec2024 22:06:37.437] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[05Dec2024 22:06:37.438] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[05Dec2024 22:06:37.439] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
+[05Dec2024 22:06:37.440] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[05Dec2024 22:06:37.440] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
+[05Dec2024 22:06:37.441] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[05Dec2024 22:06:37.442] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[05Dec2024 22:06:37.590] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[05Dec2024 22:06:42.095] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zlf000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05Dec2024 22:06:43.425] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[05Dec2024 22:06:43.434] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[05Dec2024 22:06:43.450] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[05Dec2024 22:06:43.521] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[05Dec2024 22:06:43.667] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[05Dec2024 22:06:43.983] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Dec2024 22:06:43.984] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[05Dec2024 22:06:43.986] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[05Dec2024 22:06:43.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[05Dec2024 22:06:43.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[05Dec2024 22:06:43.989] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[05Dec2024 22:06:43.995] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[05Dec2024 22:06:43.996] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[05Dec2024 22:06:44.285] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[05Dec2024 22:06:44.393] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[05Dec2024 22:06:44.458] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[05Dec2024 22:06:44.527] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Dec2024 22:06:44.527] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Dec2024 22:06:44.543] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for leavesbegone:main
+[05Dec2024 22:06:45.381] [modloading-worker-0/INFO] [Expanded Ecosphere/]: Loading Expanded Ecosphere
+[05Dec2024 22:06:45.825] [modloading-worker-0/INFO] [Expanded Ecosphere/]: [Expanded Ecosphere Updater] Found no updates
+[05Dec2024 22:06:45.989] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[05Dec2024 22:06:46.633] [modloading-worker-0/INFO] [com.epherical.epherolib.config.CommonConfig/]: Creating default config file: croptopia_v3.conf
+[05Dec2024 22:06:46.836] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[05Dec2024 22:06:47.095] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[05Dec2024 22:06:47.097] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[05Dec2024 22:06:47.104] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[05Dec2024 22:06:47.300] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[05Dec2024 22:06:47.333] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[05Dec2024 22:06:47.355] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[05Dec2024 22:06:47.357] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[05Dec2024 22:06:47.362] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[05Dec2024 22:06:47.365] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[05Dec2024 22:06:47.374] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[05Dec2024 22:06:47.375] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[05Dec2024 22:06:47.376] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[05Dec2024 22:06:47.377] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[05Dec2024 22:06:47.379] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[05Dec2024 22:06:47.624] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[05Dec2024 22:06:47.659] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[05Dec2024 22:06:47.661] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[05Dec2024 22:06:47.671] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[05Dec2024 22:06:47.672] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[05Dec2024 22:06:47.674] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[05Dec2024 22:06:47.690] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[05Dec2024 22:06:47.695] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:share_waypoint
+[05Dec2024 22:06:47.703] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[05Dec2024 22:06:47.709] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[05Dec2024 22:06:47.715] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[05Dec2024 22:06:47.722] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[05Dec2024 22:06:47.725] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[05Dec2024 22:06:47.896] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[05Dec2024 22:06:47.993] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.971] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.972] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.972] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.972] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:50.972] [main/INFO] [Create Deco/]: placard tooltip was null
+[05Dec2024 22:06:52.185] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[05Dec2024 22:06:52.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[05Dec2024 22:06:52.420] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
+[05Dec2024 22:06:52.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[05Dec2024 22:06:52.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[05Dec2024 22:06:52.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[05Dec2024 22:06:52.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[05Dec2024 22:06:52.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[05Dec2024 22:06:52.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[05Dec2024 22:06:52.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[05Dec2024 22:06:52.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[05Dec2024 22:06:52.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[05Dec2024 22:06:52.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[05Dec2024 22:06:52.567] [main/INFO] [journeymap/]: Initializing Packet Registries
+[05Dec2024 22:06:52.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[05Dec2024 22:06:52.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[05Dec2024 22:06:52.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[05Dec2024 22:06:52.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[05Dec2024 22:06:52.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[05Dec2024 22:06:52.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Dec2024 22:06:52.718] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[05Dec2024 22:06:52.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[05Dec2024 22:06:52.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leavesbegone] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/leavesbegone.json
+[05Dec2024 22:06:52.763] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[05Dec2024 22:06:52.764] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[05Dec2024 22:06:52.764] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
+[05Dec2024 22:06:52.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leavesbegone] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[05Dec2024 22:06:52.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[05Dec2024 22:06:52.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[05Dec2024 22:06:52.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[05Dec2024 22:06:52.893] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.p3pp3rf1y.sophisticatedstorage.compat.jade.StorageJadePlugin
+[05Dec2024 22:06:52.901] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[05Dec2024 22:06:52.902] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[05Dec2024 22:06:52.905] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[05Dec2024 22:06:52.918] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[05Dec2024 22:06:52.922] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[05Dec2024 22:06:52.923] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[05Dec2024 22:06:53.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[05Dec2024 22:06:53.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[05Dec2024 22:06:53.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.3 Target: null
+[05Dec2024 22:06:53.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[05Dec2024 22:06:53.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[05Dec2024 22:06:53.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[05Dec2024 22:06:53.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[05Dec2024 22:06:53.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[05Dec2024 22:06:53.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[05Dec2024 22:06:53.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[05Dec2024 22:06:53.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
+[05Dec2024 22:06:53.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[05Dec2024 22:06:53.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
+[05Dec2024 22:06:53.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[05Dec2024 22:06:53.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[05Dec2024 22:06:53.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[05Dec2024 22:06:54.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
+[05Dec2024 22:06:54.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[05Dec2024 22:06:54.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[05Dec2024 22:06:54.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[05Dec2024 22:06:54.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[05Dec2024 22:06:54.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[05Dec2024 22:06:54.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[05Dec2024 22:06:54.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[05Dec2024 22:06:54.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[05Dec2024 22:07:00.278] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Dec2024 22:07:00.577] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:bonfire Expected: 1836 Got: 1129
+[05Dec2024 22:07:00.578] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:chandelier Expected: 1837 Got: 1130
+[05Dec2024 22:07:00.578] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:brazier Expected: 1838 Got: 1131
+[05Dec2024 22:07:00.578] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:soul_bonfire Expected: 1839 Got: 1132
+[05Dec2024 22:07:00.578] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:soul_chandelier Expected: 1840 Got: 1133
+[05Dec2024 22:07:00.578] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:soul_brazier Expected: 1841 Got: 1134
+[05Dec2024 22:07:00.579] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:bar_panel Expected: 1842 Got: 1135
+[05Dec2024 22:07:00.579] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:lattice Expected: 1843 Got: 1136
+[05Dec2024 22:07:00.579] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:chain Expected: 1844 Got: 1137
+[05Dec2024 22:07:00.579] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:stone_pillar Expected: 1845 Got: 1138
+[05Dec2024 22:07:00.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:rocky_dirt Expected: 1846 Got: 1139
+[05Dec2024 22:07:00.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:thatch Expected: 1847 Got: 1140
+[05Dec2024 22:07:00.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:oak_beam Expected: 1848 Got: 1141
+[05Dec2024 22:07:00.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:oak_palisade Expected: 1849 Got: 1142
+[05Dec2024 22:07:00.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:oak_support Expected: 1850 Got: 1143
+[05Dec2024 22:07:00.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:oak_seat Expected: 1851 Got: 1144
+[05Dec2024 22:07:00.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:birch_beam Expected: 1852 Got: 1145
+[05Dec2024 22:07:00.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:birch_palisade Expected: 1853 Got: 1146
+[05Dec2024 22:07:00.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:birch_support Expected: 1854 Got: 1147
+[05Dec2024 22:07:00.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:birch_seat Expected: 1855 Got: 1148
+[05Dec2024 22:07:00.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:spruce_beam Expected: 1856 Got: 1149
+[05Dec2024 22:07:00.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:spruce_palisade Expected: 1857 Got: 1150
+[05Dec2024 22:07:00.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:spruce_support Expected: 1858 Got: 1151
+[05Dec2024 22:07:00.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:spruce_seat Expected: 1859 Got: 1152
+[05Dec2024 22:07:00.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:acacia_beam Expected: 1860 Got: 1153
+[05Dec2024 22:07:00.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:acacia_palisade Expected: 1861 Got: 1154
+[05Dec2024 22:07:00.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:acacia_support Expected: 1862 Got: 1155
+[05Dec2024 22:07:00.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:acacia_seat Expected: 1863 Got: 1156
+[05Dec2024 22:07:00.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:jungle_beam Expected: 1864 Got: 1157
+[05Dec2024 22:07:00.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:jungle_palisade Expected: 1865 Got: 1158
+[05Dec2024 22:07:00.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:jungle_support Expected: 1866 Got: 1159
+[05Dec2024 22:07:00.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:jungle_seat Expected: 1867 Got: 1160
+[05Dec2024 22:07:00.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:dark_oak_beam Expected: 1868 Got: 1161
+[05Dec2024 22:07:00.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:dark_oak_palisade Expected: 1869 Got: 1162
+[05Dec2024 22:07:00.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:dark_oak_support Expected: 1870 Got: 1163
+[05Dec2024 22:07:00.586] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:dark_oak_seat Expected: 1871 Got: 1164
+[05Dec2024 22:07:00.586] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:mangrove_beam Expected: 1872 Got: 1165
+[05Dec2024 22:07:00.586] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:mangrove_palisade Expected: 1873 Got: 1166
+[05Dec2024 22:07:00.586] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:mangrove_support Expected: 1874 Got: 1167
+[05Dec2024 22:07:00.587] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:mangrove_seat Expected: 1875 Got: 1168
+[05Dec2024 22:07:00.587] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:cherry_beam Expected: 1876 Got: 1169
+[05Dec2024 22:07:00.587] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:cherry_palisade Expected: 1877 Got: 1170
+[05Dec2024 22:07:00.587] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:cherry_support Expected: 1878 Got: 1171
+[05Dec2024 22:07:00.588] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:cherry_seat Expected: 1879 Got: 1172
+[05Dec2024 22:07:00.588] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:bamboo_palisade Expected: 1880 Got: 1173
+[05Dec2024 22:07:00.588] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:bamboo_support Expected: 1881 Got: 1174
+[05Dec2024 22:07:00.588] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:bamboo_seat Expected: 1882 Got: 1175
+[05Dec2024 22:07:00.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:crimson_beam Expected: 1883 Got: 1176
+[05Dec2024 22:07:00.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:crimson_palisade Expected: 1884 Got: 1177
+[05Dec2024 22:07:00.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:crimson_support Expected: 1885 Got: 1178
+[05Dec2024 22:07:00.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:crimson_seat Expected: 1886 Got: 1179
+[05Dec2024 22:07:00.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:warped_beam Expected: 1887 Got: 1180
+[05Dec2024 22:07:00.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:warped_palisade Expected: 1888 Got: 1181
+[05Dec2024 22:07:00.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:warped_support Expected: 1889 Got: 1182
+[05Dec2024 22:07:00.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: decorative_blocks:warped_seat Expected: 1890 Got: 1183
+[05Dec2024 22:07:00.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:spruce_stockade_fence Expected: 3509 Got: 1184
+[05Dec2024 22:07:00.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:birch_stockade_fence Expected: 3510 Got: 1185
+[05Dec2024 22:07:00.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:jungle_stockade_fence Expected: 3511 Got: 1186
+[05Dec2024 22:07:00.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:acacia_stockade_fence Expected: 3512 Got: 1187
+[05Dec2024 22:07:00.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:dark_oak_stockade_fence Expected: 3513 Got: 1188
+[05Dec2024 22:07:00.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:crimson_stockade_fence Expected: 3514 Got: 1189
+[05Dec2024 22:07:00.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:warped_stockade_fence Expected: 3515 Got: 1190
+[05Dec2024 22:07:00.593] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mangrove_stockade_fence Expected: 3516 Got: 1191
+[05Dec2024 22:07:00.593] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:oak_horse_fence Expected: 3517 Got: 1192
+[05Dec2024 22:07:00.593] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:spruce_horse_fence Expected: 3518 Got: 1193
+[05Dec2024 22:07:00.593] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:birch_horse_fence Expected: 3519 Got: 1194
+[05Dec2024 22:07:00.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:jungle_horse_fence Expected: 3520 Got: 1195
+[05Dec2024 22:07:00.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:acacia_horse_fence Expected: 3521 Got: 1196
+[05Dec2024 22:07:00.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:dark_oak_horse_fence Expected: 3522 Got: 1197
+[05Dec2024 22:07:00.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:crimson_horse_fence Expected: 3523 Got: 1198
+[05Dec2024 22:07:00.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:warped_horse_fence Expected: 3524 Got: 1199
+[05Dec2024 22:07:00.595] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mangrove_horse_fence Expected: 3525 Got: 1200
+[05Dec2024 22:07:00.595] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:oak_wired_fence Expected: 3526 Got: 1201
+[05Dec2024 22:07:00.595] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:spruce_wired_fence Expected: 3527 Got: 1202
+[05Dec2024 22:07:00.595] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:birch_wired_fence Expected: 3528 Got: 1203
+[05Dec2024 22:07:00.596] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:jungle_wired_fence Expected: 3529 Got: 1204
+[05Dec2024 22:07:00.596] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:acacia_wired_fence Expected: 3530 Got: 1205
+[05Dec2024 22:07:00.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:dark_oak_wired_fence Expected: 3531 Got: 1206
+[05Dec2024 22:07:00.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:crimson_wired_fence Expected: 3532 Got: 1207
+[05Dec2024 22:07:00.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:warped_wired_fence Expected: 3533 Got: 1208
+[05Dec2024 22:07:00.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mangrove_wired_fence Expected: 3534 Got: 1209
+[05Dec2024 22:07:00.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:oak_hedge Expected: 3535 Got: 1210
+[05Dec2024 22:07:00.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:spruce_hedge Expected: 3536 Got: 1211
+[05Dec2024 22:07:00.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:birch_hedge Expected: 3537 Got: 1212
+[05Dec2024 22:07:00.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:jungle_hedge Expected: 3538 Got: 1213
+[05Dec2024 22:07:00.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:acacia_hedge Expected: 3539 Got: 1214
+[05Dec2024 22:07:00.599] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:dark_oak_hedge Expected: 3540 Got: 1215
+[05Dec2024 22:07:00.599] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mangrove_hedge Expected: 3541 Got: 1216
+[05Dec2024 22:07:00.599] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:azalea_hedge Expected: 3542 Got: 1217
+[05Dec2024 22:07:00.600] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:flowering_azalea_hedge Expected: 3543 Got: 1218
+[05Dec2024 22:07:00.600] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:bamboo_fence Expected: 3544 Got: 1219
+[05Dec2024 22:07:00.600] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:oak_highley_gate Expected: 3545 Got: 1220
+[05Dec2024 22:07:00.600] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:spruce_highley_gate Expected: 3546 Got: 1221
+[05Dec2024 22:07:00.600] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:birch_highley_gate Expected: 3547 Got: 1222
+[05Dec2024 22:07:00.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:jungle_highley_gate Expected: 3548 Got: 1223
+[05Dec2024 22:07:00.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:acacia_highley_gate Expected: 3549 Got: 1224
+[05Dec2024 22:07:00.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:dark_oak_highley_gate Expected: 3550 Got: 1225
+[05Dec2024 22:07:00.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:crimson_highley_gate Expected: 3551 Got: 1226
+[05Dec2024 22:07:00.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:warped_highley_gate Expected: 3552 Got: 1227
+[05Dec2024 22:07:00.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mangrove_highley_gate Expected: 3553 Got: 1228
+[05Dec2024 22:07:00.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:oak_pyramid_gate Expected: 3554 Got: 1229
+[05Dec2024 22:07:00.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:spruce_pyramid_gate Expected: 3555 Got: 1230
+[05Dec2024 22:07:00.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:birch_pyramid_gate Expected: 3556 Got: 1231
+[05Dec2024 22:07:00.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:jungle_pyramid_gate Expected: 3557 Got: 1232
+[05Dec2024 22:07:00.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:acacia_pyramid_gate Expected: 3558 Got: 1233
+[05Dec2024 22:07:00.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:dark_oak_pyramid_gate Expected: 3559 Got: 1234
+[05Dec2024 22:07:00.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:crimson_pyramid_gate Expected: 3560 Got: 1235
+[05Dec2024 22:07:00.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:warped_pyramid_gate Expected: 3561 Got: 1236
+[05Dec2024 22:07:00.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mangrove_pyramid_gate Expected: 3562 Got: 1237
+[05Dec2024 22:07:00.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_stone_brick_wall Expected: 3563 Got: 1238
+[05Dec2024 22:07:00.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_andesite_wall Expected: 3564 Got: 1239
+[05Dec2024 22:07:00.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_diorite_wall Expected: 3565 Got: 1240
+[05Dec2024 22:07:00.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_granite_wall Expected: 3566 Got: 1241
+[05Dec2024 22:07:00.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_sandstone_wall Expected: 3567 Got: 1242
+[05Dec2024 22:07:00.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_red_sandstone_wall Expected: 3568 Got: 1243
+[05Dec2024 22:07:00.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_blackstone_wall Expected: 3569 Got: 1244
+[05Dec2024 22:07:00.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_nether_brick_wall Expected: 3570 Got: 1245
+[05Dec2024 22:07:00.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_end_brick_wall Expected: 3571 Got: 1246
+[05Dec2024 22:07:00.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_deepslate_wall Expected: 3572 Got: 1247
+[05Dec2024 22:07:00.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_deepslate_brick_wall Expected: 3573 Got: 1248
+[05Dec2024 22:07:00.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_quartz_wall Expected: 3574 Got: 1249
+[05Dec2024 22:07:00.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_mud_brick_wall Expected: 3575 Got: 1250
+[05Dec2024 22:07:00.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:modern_prismarine_wall Expected: 3576 Got: 1251
+[05Dec2024 22:07:00.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_stone_brick_wall Expected: 3577 Got: 1252
+[05Dec2024 22:07:00.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_andesite_wall Expected: 3578 Got: 1253
+[05Dec2024 22:07:00.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_diorite_wall Expected: 3579 Got: 1254
+[05Dec2024 22:07:00.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_granite_wall Expected: 3580 Got: 1255
+[05Dec2024 22:07:00.606] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_sandstone_wall Expected: 3581 Got: 1256
+[05Dec2024 22:07:00.606] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_red_sandstone_wall Expected: 3582 Got: 1257
+[05Dec2024 22:07:00.606] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_blackstone_wall Expected: 3583 Got: 1258
+[05Dec2024 22:07:00.606] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_nether_brick_wall Expected: 3584 Got: 1259
+[05Dec2024 22:07:00.606] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_end_brick_wall Expected: 3585 Got: 1260
+[05Dec2024 22:07:00.606] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_deepslate_wall Expected: 3586 Got: 1261
+[05Dec2024 22:07:00.606] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_deepslate_brick_wall Expected: 3587 Got: 1262
+[05Dec2024 22:07:00.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_quartz_wall Expected: 3588 Got: 1263
+[05Dec2024 22:07:00.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_mud_brick_wall Expected: 3589 Got: 1264
+[05Dec2024 22:07:00.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:railing_prismarine_wall Expected: 3590 Got: 1265
+[05Dec2024 22:07:00.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:stone_brick_railing_gate Expected: 3591 Got: 1266
+[05Dec2024 22:07:00.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:andesite_railing_gate Expected: 3592 Got: 1267
+[05Dec2024 22:07:00.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:diorite_railing_gate Expected: 3593 Got: 1268
+[05Dec2024 22:07:00.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:granite_railing_gate Expected: 3594 Got: 1269
+[05Dec2024 22:07:00.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:sandstone_railing_gate Expected: 3595 Got: 1270
+[05Dec2024 22:07:00.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:red_sandstone_railing_gate Expected: 3596 Got: 1271
+[05Dec2024 22:07:00.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:blackstone_railing_gate Expected: 3597 Got: 1272
+[05Dec2024 22:07:00.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:blackstone_brick_railing_gate Expected: 3598 Got: 1273
+[05Dec2024 22:07:00.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:nether_brick_railing_gate Expected: 3599 Got: 1274
+[05Dec2024 22:07:00.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:end_brick_railing_gate Expected: 3600 Got: 1275
+[05Dec2024 22:07:00.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:deepslate_railing_gate Expected: 3601 Got: 1276
+[05Dec2024 22:07:00.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:deepslate_brick_railing_gate Expected: 3602 Got: 1277
+[05Dec2024 22:07:00.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:quartz_railing_gate Expected: 3603 Got: 1278
+[05Dec2024 22:07:00.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mud_brick_railing_gate Expected: 3604 Got: 1279
+[05Dec2024 22:07:00.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:prismarine_railing_gate Expected: 3605 Got: 1280
+[05Dec2024 22:07:00.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:cherry_picket_fence Expected: 3606 Got: 1281
+[05Dec2024 22:07:00.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:cherry_stockade_fence Expected: 3607 Got: 1282
+[05Dec2024 22:07:00.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:cherry_horse_fence Expected: 3608 Got: 1283
+[05Dec2024 22:07:00.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:cherry_wired_fence Expected: 3609 Got: 1284
+[05Dec2024 22:07:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:cherry_hedge Expected: 3610 Got: 1285
+[05Dec2024 22:07:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:cherry_highley_gate Expected: 3611 Got: 1286
+[05Dec2024 22:07:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:cherry_pyramid_gate Expected: 3612 Got: 1287
+[05Dec2024 22:07:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:bamboo_picket_fence Expected: 3613 Got: 1288
+[05Dec2024 22:07:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:bamboo_stockade_fence Expected: 3614 Got: 1289
+[05Dec2024 22:07:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:bamboo_horse_fence Expected: 3615 Got: 1290
+[05Dec2024 22:07:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:bamboo_wired_fence Expected: 3616 Got: 1291
+[05Dec2024 22:07:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:bamboo_highley_gate Expected: 3617 Got: 1292
+[05Dec2024 22:07:00.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:bamboo_pyramid_gate Expected: 3618 Got: 1293
+[05Dec2024 22:07:00.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:stone_pillar_wall Expected: 3619 Got: 1294
+[05Dec2024 22:07:00.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:andesite_pillar_wall Expected: 3620 Got: 1295
+[05Dec2024 22:07:00.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:diorite_pillar_wall Expected: 3621 Got: 1296
+[05Dec2024 22:07:00.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:granite_pillar_wall Expected: 3622 Got: 1297
+[05Dec2024 22:07:00.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:sandstone_pillar_wall Expected: 3623 Got: 1298
+[05Dec2024 22:07:00.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:red_sandstone_pillar_wall Expected: 3624 Got: 1299
+[05Dec2024 22:07:00.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:blackstone_pillar_wall Expected: 3625 Got: 1300
+[05Dec2024 22:07:00.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:nether_brick_pillar_wall Expected: 3626 Got: 1301
+[05Dec2024 22:07:00.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:end_brick_pillar_wall Expected: 3627 Got: 1302
+[05Dec2024 22:07:00.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:deepslate_pillar_wall Expected: 3628 Got: 1303
+[05Dec2024 22:07:00.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:deepslate_brick_pillar_wall Expected: 3629 Got: 1304
+[05Dec2024 22:07:00.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:quartz_pillar_wall Expected: 3630 Got: 1305
+[05Dec2024 22:07:00.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mud_brick_pillar_wall Expected: 3631 Got: 1306
+[05Dec2024 22:07:00.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:prismarine_pillar_wall Expected: 3632 Got: 1307
+[05Dec2024 22:07:00.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:stone_grass_topped_wall Expected: 3633 Got: 1308
+[05Dec2024 22:07:00.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:andesite_grass_topped_wall Expected: 3634 Got: 1309
+[05Dec2024 22:07:00.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:diorite_grass_topped_wall Expected: 3635 Got: 1310
+[05Dec2024 22:07:00.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:granite_grass_topped_wall Expected: 3636 Got: 1311
+[05Dec2024 22:07:00.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:sandstone_grass_topped_wall Expected: 3637 Got: 1312
+[05Dec2024 22:07:00.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:red_sandstone_grass_topped_wall Expected: 3638 Got: 1313
+[05Dec2024 22:07:00.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:blackstone_grass_topped_wall Expected: 3639 Got: 1314
+[05Dec2024 22:07:00.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:nether_brick_grass_topped_wall Expected: 3640 Got: 1315
+[05Dec2024 22:07:00.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:end_brick_grass_topped_wall Expected: 3641 Got: 1316
+[05Dec2024 22:07:00.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:deepslate_grass_topped_wall Expected: 3642 Got: 1317
+[05Dec2024 22:07:00.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:deepslate_brick_grass_topped_wall Expected: 3643 Got: 1318
+[05Dec2024 22:07:00.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:quartz_grass_topped_wall Expected: 3644 Got: 1319
+[05Dec2024 22:07:00.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:mud_brick_grass_topped_wall Expected: 3645 Got: 1320
+[05Dec2024 22:07:00.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:prismarine_grass_topped_wall Expected: 3646 Got: 1321
+[05Dec2024 22:07:00.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:wooden_cheval_de_frise Expected: 3647 Got: 1322
+[05Dec2024 22:07:00.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwfences:iron_cheval_de_frise Expected: 3648 Got: 1323
+[05Dec2024 22:07:00.615] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: decorative_blocks:flowing_thatch Expected: 7 Got: 5
+[05Dec2024 22:07:00.615] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: decorative_blocks:thatch Expected: 8 Got: 6
+[05Dec2024 22:07:00.618] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:chandelier Expected: 2470 Got: 1432
+[05Dec2024 22:07:00.618] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:soul_chandelier Expected: 2471 Got: 1433
+[05Dec2024 22:07:00.619] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:brazier Expected: 2472 Got: 1434
+[05Dec2024 22:07:00.619] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:soul_brazier Expected: 2473 Got: 1435
+[05Dec2024 22:07:00.619] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:bar_panel Expected: 2474 Got: 1436
+[05Dec2024 22:07:00.619] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:lattice Expected: 2475 Got: 1437
+[05Dec2024 22:07:00.619] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:chain Expected: 2476 Got: 1438
+[05Dec2024 22:07:00.619] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:stone_pillar Expected: 2477 Got: 1439
+[05Dec2024 22:07:00.619] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:rocky_dirt Expected: 2478 Got: 1440
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:blockstate_copy_item Expected: 2479 Got: 1441
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:oak_beam Expected: 2480 Got: 1442
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:oak_seat Expected: 2481 Got: 1443
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:oak_support Expected: 2482 Got: 1444
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:oak_palisade Expected: 2483 Got: 1445
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:birch_beam Expected: 2484 Got: 1446
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:birch_seat Expected: 2485 Got: 1447
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:birch_support Expected: 2486 Got: 1448
+[05Dec2024 22:07:00.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:birch_palisade Expected: 2487 Got: 1449
+[05Dec2024 22:07:00.621] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:spruce_beam Expected: 2488 Got: 1450
+[05Dec2024 22:07:00.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:spruce_seat Expected: 2489 Got: 1451
+[05Dec2024 22:07:00.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:spruce_support Expected: 2490 Got: 1452
+[05Dec2024 22:07:00.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:spruce_palisade Expected: 2491 Got: 1453
+[05Dec2024 22:07:00.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:acacia_beam Expected: 2492 Got: 1454
+[05Dec2024 22:07:00.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:acacia_seat Expected: 2493 Got: 1455
+[05Dec2024 22:07:00.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:acacia_support Expected: 2494 Got: 1456
+[05Dec2024 22:07:00.624] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:acacia_palisade Expected: 2495 Got: 1457
+[05Dec2024 22:07:00.624] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:jungle_beam Expected: 2496 Got: 1458
+[05Dec2024 22:07:00.624] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:jungle_seat Expected: 2497 Got: 1459
+[05Dec2024 22:07:00.625] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:jungle_support Expected: 2498 Got: 1460
+[05Dec2024 22:07:00.625] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:jungle_palisade Expected: 2499 Got: 1461
+[05Dec2024 22:07:00.626] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:dark_oak_beam Expected: 2500 Got: 1462
+[05Dec2024 22:07:00.626] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:dark_oak_seat Expected: 2501 Got: 1463
+[05Dec2024 22:07:00.627] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:dark_oak_support Expected: 2502 Got: 1464
+[05Dec2024 22:07:00.627] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:dark_oak_palisade Expected: 2503 Got: 1465
+[05Dec2024 22:07:00.628] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:mangrove_beam Expected: 2504 Got: 1466
+[05Dec2024 22:07:00.628] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:mangrove_seat Expected: 2505 Got: 1467
+[05Dec2024 22:07:00.628] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:mangrove_support Expected: 2506 Got: 1468
+[05Dec2024 22:07:00.629] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:mangrove_palisade Expected: 2507 Got: 1469
+[05Dec2024 22:07:00.629] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:cherry_beam Expected: 2508 Got: 1470
+[05Dec2024 22:07:00.630] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:cherry_seat Expected: 2509 Got: 1471
+[05Dec2024 22:07:00.630] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:cherry_support Expected: 2510 Got: 1472
+[05Dec2024 22:07:00.631] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:cherry_palisade Expected: 2511 Got: 1473
+[05Dec2024 22:07:00.631] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:bamboo_seat Expected: 2512 Got: 1474
+[05Dec2024 22:07:00.631] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:bamboo_support Expected: 2513 Got: 1475
+[05Dec2024 22:07:00.632] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:bamboo_palisade Expected: 2514 Got: 1476
+[05Dec2024 22:07:00.632] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:crimson_beam Expected: 2515 Got: 1477
+[05Dec2024 22:07:00.632] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:crimson_seat Expected: 2516 Got: 1478
+[05Dec2024 22:07:00.633] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:crimson_support Expected: 2517 Got: 1479
+[05Dec2024 22:07:00.633] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:crimson_palisade Expected: 2518 Got: 1480
+[05Dec2024 22:07:00.634] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:warped_beam Expected: 2519 Got: 1481
+[05Dec2024 22:07:00.634] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:warped_seat Expected: 2520 Got: 1482
+[05Dec2024 22:07:00.635] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:warped_support Expected: 2521 Got: 1483
+[05Dec2024 22:07:00.635] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: decorative_blocks:warped_palisade Expected: 2522 Got: 1484
+[05Dec2024 22:07:00.636] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:oak_highley_gate Expected: 4415 Got: 1485
+[05Dec2024 22:07:00.636] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:spruce_highley_gate Expected: 4416 Got: 1486
+[05Dec2024 22:07:00.637] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:birch_highley_gate Expected: 4417 Got: 1487
+[05Dec2024 22:07:00.637] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:jungle_highley_gate Expected: 4418 Got: 1488
+[05Dec2024 22:07:00.637] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:acacia_highley_gate Expected: 4419 Got: 1489
+[05Dec2024 22:07:00.638] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:dark_oak_highley_gate Expected: 4420 Got: 1490
+[05Dec2024 22:07:00.638] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:crimson_highley_gate Expected: 4421 Got: 1491
+[05Dec2024 22:07:00.638] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:warped_highley_gate Expected: 4422 Got: 1492
+[05Dec2024 22:07:00.639] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:mangrove_highley_gate Expected: 4423 Got: 1493
+[05Dec2024 22:07:00.639] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:oak_pyramid_gate Expected: 4424 Got: 1494
+[05Dec2024 22:07:00.640] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:spruce_pyramid_gate Expected: 4425 Got: 1495
+[05Dec2024 22:07:00.640] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:birch_pyramid_gate Expected: 4426 Got: 1496
+[05Dec2024 22:07:00.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:jungle_pyramid_gate Expected: 4427 Got: 1497
+[05Dec2024 22:07:00.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:acacia_pyramid_gate Expected: 4428 Got: 1498
+[05Dec2024 22:07:00.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:dark_oak_pyramid_gate Expected: 4429 Got: 1499
+[05Dec2024 22:07:00.642] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:crimson_pyramid_gate Expected: 4430 Got: 1500
+[05Dec2024 22:07:00.642] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:warped_pyramid_gate Expected: 4431 Got: 1501
+[05Dec2024 22:07:00.642] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:mangrove_pyramid_gate Expected: 4432 Got: 1502
+[05Dec2024 22:07:00.643] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_stone_brick_wall Expected: 4433 Got: 1503
+[05Dec2024 22:07:00.643] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_andesite_wall Expected: 4434 Got: 1504
+[05Dec2024 22:07:00.644] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_diorite_wall Expected: 4435 Got: 1505
+[05Dec2024 22:07:00.644] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_granite_wall Expected: 4436 Got: 1506
+[05Dec2024 22:07:00.644] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_sandstone_wall Expected: 4437 Got: 1507
+[05Dec2024 22:07:00.645] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_red_sandstone_wall Expected: 4438 Got: 1508
+[05Dec2024 22:07:00.645] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_blackstone_wall Expected: 4439 Got: 1509
+[05Dec2024 22:07:00.646] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_nether_brick_wall Expected: 4440 Got: 1510
+[05Dec2024 22:07:00.646] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_end_brick_wall Expected: 4441 Got: 1511
+[05Dec2024 22:07:00.646] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_deepslate_wall Expected: 4442 Got: 1512
+[05Dec2024 22:07:00.647] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_deepslate_brick_wall Expected: 4443 Got: 1513
+[05Dec2024 22:07:00.647] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_quartz_wall Expected: 4444 Got: 1514
+[05Dec2024 22:07:00.648] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_mud_brick_wall Expected: 4445 Got: 1515
+[05Dec2024 22:07:00.648] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:modern_prismarine_wall Expected: 4446 Got: 1516
+[05Dec2024 22:07:00.648] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_stone_brick_wall Expected: 4447 Got: 1517
+[05Dec2024 22:07:00.649] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_andesite_wall Expected: 4448 Got: 1518
+[05Dec2024 22:07:00.649] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_diorite_wall Expected: 4449 Got: 1519
+[05Dec2024 22:07:00.650] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_granite_wall Expected: 4450 Got: 1520
+[05Dec2024 22:07:00.650] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_sandstone_wall Expected: 4451 Got: 1521
+[05Dec2024 22:07:00.651] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_red_sandstone_wall Expected: 4452 Got: 1522
+[05Dec2024 22:07:00.651] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_blackstone_wall Expected: 4453 Got: 1523
+[05Dec2024 22:07:00.651] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_nether_brick_wall Expected: 4454 Got: 1524
+[05Dec2024 22:07:00.652] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_end_brick_wall Expected: 4455 Got: 1525
+[05Dec2024 22:07:00.652] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_deepslate_wall Expected: 4456 Got: 1526
+[05Dec2024 22:07:00.652] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_deepslate_brick_wall Expected: 4457 Got: 1527
+[05Dec2024 22:07:00.653] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_quartz_wall Expected: 4458 Got: 1528
+[05Dec2024 22:07:00.653] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_mud_brick_wall Expected: 4459 Got: 1529
+[05Dec2024 22:07:00.654] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:railing_prismarine_wall Expected: 4460 Got: 1530
+[05Dec2024 22:07:00.654] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:stone_brick_railing_gate Expected: 4461 Got: 1531
+[05Dec2024 22:07:00.655] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:andesite_railing_gate Expected: 4462 Got: 1532
+[05Dec2024 22:07:00.655] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:diorite_railing_gate Expected: 4463 Got: 1533
+[05Dec2024 22:07:00.655] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:granite_railing_gate Expected: 4464 Got: 1534
+[05Dec2024 22:07:00.656] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:sandstone_railing_gate Expected: 4465 Got: 1535
+[05Dec2024 22:07:00.656] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:red_sandstone_railing_gate Expected: 4466 Got: 1536
+[05Dec2024 22:07:00.657] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:blackstone_railing_gate Expected: 4467 Got: 1537
+[05Dec2024 22:07:00.657] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:blackstone_brick_railing_gate Expected: 4468 Got: 1538
+[05Dec2024 22:07:00.658] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:nether_brick_railing_gate Expected: 4469 Got: 1539
+[05Dec2024 22:07:00.658] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:end_brick_railing_gate Expected: 4470 Got: 1540
+[05Dec2024 22:07:00.659] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:deepslate_railing_gate Expected: 4471 Got: 1541
+[05Dec2024 22:07:00.659] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:deepslate_brick_railing_gate Expected: 4472 Got: 1542
+[05Dec2024 22:07:00.659] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:quartz_railing_gate Expected: 4473 Got: 1543
+[05Dec2024 22:07:00.660] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:mud_brick_railing_gate Expected: 4474 Got: 1544
+[05Dec2024 22:07:00.660] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:prismarine_railing_gate Expected: 4475 Got: 1545
+[05Dec2024 22:07:00.661] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:cherry_picket_fence Expected: 4476 Got: 1546
+[05Dec2024 22:07:00.661] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:cherry_stockade_fence Expected: 4477 Got: 1547
+[05Dec2024 22:07:00.661] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:cherry_horse_fence Expected: 4478 Got: 1548
+[05Dec2024 22:07:00.662] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:cherry_wired_fence Expected: 4479 Got: 1549
+[05Dec2024 22:07:00.662] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:cherry_hedge Expected: 4480 Got: 1550
+[05Dec2024 22:07:00.663] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:cherry_highley_gate Expected: 4481 Got: 1551
+[05Dec2024 22:07:00.663] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:cherry_pyramid_gate Expected: 4482 Got: 1552
+[05Dec2024 22:07:00.663] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:bamboo_picket_fence Expected: 4483 Got: 1553
+[05Dec2024 22:07:00.664] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:bamboo_stockade_fence Expected: 4484 Got: 1554
+[05Dec2024 22:07:00.664] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:bamboo_horse_fence Expected: 4485 Got: 1555
+[05Dec2024 22:07:00.665] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:bamboo_wired_fence Expected: 4486 Got: 1556
+[05Dec2024 22:07:00.665] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:bamboo_highley_gate Expected: 4487 Got: 1557
+[05Dec2024 22:07:00.665] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:bamboo_pyramid_gate Expected: 4488 Got: 1558
+[05Dec2024 22:07:00.666] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:stone_pillar_wall Expected: 4489 Got: 1559
+[05Dec2024 22:07:00.666] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:andesite_pillar_wall Expected: 4490 Got: 1560
+[05Dec2024 22:07:00.667] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:diorite_pillar_wall Expected: 4491 Got: 1561
+[05Dec2024 22:07:00.667] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:granite_pillar_wall Expected: 4492 Got: 1562
+[05Dec2024 22:07:00.667] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:sandstone_pillar_wall Expected: 4493 Got: 1563
+[05Dec2024 22:07:00.668] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:red_sandstone_pillar_wall Expected: 4494 Got: 1564
+[05Dec2024 22:07:00.668] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:blackstone_pillar_wall Expected: 4495 Got: 1565
+[05Dec2024 22:07:00.669] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:nether_brick_pillar_wall Expected: 4496 Got: 1566
+[05Dec2024 22:07:00.669] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:end_brick_pillar_wall Expected: 4497 Got: 1567
+[05Dec2024 22:07:00.669] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:deepslate_pillar_wall Expected: 4498 Got: 1568
+[05Dec2024 22:07:00.670] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:deepslate_brick_pillar_wall Expected: 4499 Got: 1569
+[05Dec2024 22:07:00.670] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:quartz_pillar_wall Expected: 4500 Got: 1570
+[05Dec2024 22:07:00.671] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:mud_brick_pillar_wall Expected: 4501 Got: 1571
+[05Dec2024 22:07:00.671] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:prismarine_pillar_wall Expected: 4502 Got: 1572
+[05Dec2024 22:07:00.671] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:stone_grass_topped_wall Expected: 4503 Got: 1573
+[05Dec2024 22:07:00.672] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:andesite_grass_topped_wall Expected: 4504 Got: 1574
+[05Dec2024 22:07:00.672] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:diorite_grass_topped_wall Expected: 4505 Got: 1575
+[05Dec2024 22:07:00.672] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:granite_grass_topped_wall Expected: 4506 Got: 1576
+[05Dec2024 22:07:00.673] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:sandstone_grass_topped_wall Expected: 4507 Got: 1577
+[05Dec2024 22:07:00.673] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:red_sandstone_grass_topped_wall Expected: 4508 Got: 1578
+[05Dec2024 22:07:00.674] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:blackstone_grass_topped_wall Expected: 4509 Got: 1579
+[05Dec2024 22:07:00.674] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:nether_brick_grass_topped_wall Expected: 4510 Got: 1580
+[05Dec2024 22:07:00.675] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:end_brick_grass_topped_wall Expected: 4511 Got: 1581
+[05Dec2024 22:07:00.675] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:deepslate_grass_topped_wall Expected: 4512 Got: 1582
+[05Dec2024 22:07:00.675] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:deepslate_brick_grass_topped_wall Expected: 4513 Got: 1583
+[05Dec2024 22:07:00.676] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:quartz_grass_topped_wall Expected: 4514 Got: 1584
+[05Dec2024 22:07:00.676] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:mud_brick_grass_topped_wall Expected: 4515 Got: 1585
+[05Dec2024 22:07:00.676] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:prismarine_grass_topped_wall Expected: 4516 Got: 1586
+[05Dec2024 22:07:00.677] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:wooden_cheval_de_frise Expected: 4517 Got: 1587
+[05Dec2024 22:07:00.677] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwfences:iron_cheval_de_frise Expected: 4518 Got: 1588
+[05Dec2024 22:07:00.678] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: decorative_blocks:dummy_entity Expected: 241 Got: 125
+[05Dec2024 22:07:05.802] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/maincra/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23259!/assets/.mcassetsroot' uses unexpected schema
+[05Dec2024 22:07:05.802] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/maincra/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23259!/data/.mcassetsroot' uses unexpected schema
+[05Dec2024 22:07:07.879] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[05Dec2024 22:07:09.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 50 recipes
+[05Dec2024 22:07:09.853] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[05Dec2024 22:07:09.911] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_mason_table_upgrade_from_storage_chipped_mason_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/mason_table_upgrade'
+[05Dec2024 22:07:09.920] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
+[05Dec2024 22:07:09.923] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_glassblower_upgrade_from_storage_chipped_glassblower_upgrade: Unknown item id 'sophisticatedstorage:chipped/glassblower_upgrade'
+[05Dec2024 22:07:09.926] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_carpenters_table_upgrade_from_backpack_chipped_carpenters_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/carpenters_table_upgrade'
+[05Dec2024 22:07:09.933] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_alchemy_bench_upgrade_from_backpack_chipped_alchemy_bench_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade'
+[05Dec2024 22:07:09.940] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_loom_table_upgrade_from_storage_chipped_loom_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/loom_table_upgrade'
+[05Dec2024 22:07:09.973] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_botanist_workbench_upgrade_from_backpack_chipped_botanist_workbench_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/botanist_workbench_upgrade'
+[05Dec2024 22:07:09.980] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_tinkering_table_upgrade_from_backpack_chipped_tinkering_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/tinkering_table_upgrade'
+[05Dec2024 22:07:09.997] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
+[05Dec2024 22:07:10.011] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_loom_table_upgrade_from_backpack_chipped_loom_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/loom_table_upgrade'
+[05Dec2024 22:07:10.017] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_carpenters_table_upgrade_from_storage_chipped_carpenters_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/carpenters_table_upgrade'
+[05Dec2024 22:07:10.054] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_botanist_workbench_upgrade_from_storage_chipped_botanist_workbench_upgrade: Unknown item id 'sophisticatedstorage:chipped/botanist_workbench_upgrade'
+[05Dec2024 22:07:10.055] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_glassblower_upgrade_from_backpack_chipped_glassblower_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/glassblower_upgrade'
+[05Dec2024 22:07:10.055] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/storage_chipped_mason_table_upgrade_from_backpack_chipped_mason_table_upgrade: Unknown item id 'sophisticatedbackpacks:chipped/mason_table_upgrade'
+[05Dec2024 22:07:10.063] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_tinkering_table_upgrade_from_storage_chipped_tinkering_table_upgrade: Unknown item id 'sophisticatedstorage:chipped/tinkering_table_upgrade'
+[05Dec2024 22:07:10.066] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement sophisticatedstorage:recipes/misc/backpack_chipped_alchemy_bench_upgrade_from_storage_chipped_alchemy_bench_upgrade: Unknown item id 'sophisticatedstorage:chipped/alchemy_bench_upgrade'
+[05Dec2024 22:07:10.110] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8428 advancements
+[05Dec2024 22:07:10.138] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[05Dec2024 22:07:10.144] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[05Dec2024 22:07:15.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Dec2024 22:07:15.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Dec2024 22:07:15.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Dec2024 22:07:15.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Dec2024 22:07:15.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Dec2024 22:07:15.469] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Dec2024 22:07:15.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/maincra/servidor_minecraft/config/easymagic-server.toml is not correct. Correcting
+[05Dec2024 22:07:15.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key max_enchanting_power was corrected from null to its default, 15. 
+[05Dec2024 22:07:15.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reroll_enchantments was corrected from null to its default, true. 
+[05Dec2024 22:07:15.567] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key lenient_bookshelves was corrected from null to its default, true. 
+[05Dec2024 22:07:15.568] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reroll_catalyst_cost was corrected from null to its default, 1. 
+[05Dec2024 22:07:15.568] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantment_hint was corrected from null to its default, SINGLE. 
+[05Dec2024 22:07:15.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key chiseled_bookshelf_enchanting_power was corrected from null to its default, FACING. 
+[05Dec2024 22:07:15.570] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dedicated_reroll_catalyst was corrected from null to its default, false. 
+[05Dec2024 22:07:15.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reroll_experience_points_cost was corrected from null to its default, 5. 
+[05Dec2024 22:07:15.573] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[05Dec2024 22:07:15.573] [Thread-6/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[05Dec2024 22:07:15.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/maincra/servidor_minecraft/config/easyanvils-server.toml is not correct. Correcting
+[05Dec2024 22:07:15.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Dec2024 22:07:15.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous.anvil_break_chance was corrected from null to its default, 0.05. 
+[05Dec2024 22:07:15.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous.risk_free_anvil_renaming was corrected from null to its default, true. 
+[05Dec2024 22:07:15.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous.edit_name_tags_no_anvil was corrected from null to its default, true. 
+[05Dec2024 22:07:15.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous.renaming_supports_formatting was corrected from null to its default, true. 
+[05Dec2024 22:07:15.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key miscellaneous.anvil_repairing was corrected from null to its default, true. 
+[05Dec2024 22:07:15.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Dec2024 22:07:15.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.rare_enchantment_multiplier was corrected from null to its default, 4. 
+[05Dec2024 22:07:15.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.repair_with_other_item_cost was corrected from null to its default, 2. 
+[05Dec2024 22:07:15.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.common_enchantment_multiplier was corrected from null to its default, 1. 
+[05Dec2024 22:07:15.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.very_rare_enchantment_multiplier was corrected from null to its default, 8. 
+[05Dec2024 22:07:15.577] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.uncommon_enchantment_multiplier was corrected from null to its default, 2. 
+[05Dec2024 22:07:15.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.halved_book_costs was corrected from null to its default, true. 
+[05Dec2024 22:07:15.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.repair_with_material_unit_cost was corrected from null to its default, 1. 
+[05Dec2024 22:07:15.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.too_expensive_limit was corrected from null to its default, -1. 
+[05Dec2024 22:07:15.578] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key costs.free_renames was corrected from null to its default, ALL_ITEMS. 
+[05Dec2024 22:07:15.579] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key prior_work_penalty was corrected from null to its default, SimpleCommentedConfig:{}. 
+[05Dec2024 22:07:15.580] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key prior_work_penalty.rename_and_repair_costs was corrected from null to its default, FIXED. 
+[05Dec2024 22:07:15.580] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key prior_work_penalty.prior_work_penalty was corrected from null to its default, FIXED. 
+[05Dec2024 22:07:15.580] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key prior_work_penalty.penalty_free_renames_and_repairs was corrected from null to its default, true. 
+[05Dec2024 22:07:15.580] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key prior_work_penalty.prior_work_penalty_constant was corrected from null to its default, 4. 
+[05Dec2024 22:07:15.582] [Thread-6/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[05Dec2024 22:07:15.582] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[05Dec2024 22:07:15.590] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Dec2024 22:07:15.592] [Thread-6/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Dec2024 22:07:15.595] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/maincra/servidor_minecraft/config/leavesbegone-server.toml is not correct. Correcting
+[05Dec2024 22:07:15.595] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maximum_decay_ticks was corrected from null to its default, 20. 
+[05Dec2024 22:07:15.596] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key minimum_decay_ticks was corrected from null to its default, 5. 
+[05Dec2024 22:07:15.597] [Thread-6/INFO] [Puzzles Lib/]: Reloading server config for leavesbegone
+[05Dec2024 22:07:15.597] [Thread-6/INFO] [Puzzles Lib/]: Reloading server config for leavesbegone
+[05Dec2024 22:07:15.598] [Server thread/INFO] [Puzzles Lib/]: Loading server config for leavesbegone
+[05Dec2024 22:07:15.996] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
+[05Dec2024 22:07:16.109] [Server thread/INFO] [spark/]: Starting background profiler...
+[05Dec2024 22:07:16.417] [Server thread/INFO] [Framework/]: Loading server configs...
+[05Dec2024 22:07:16.435] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[05Dec2024 22:07:16.629] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[05Dec2024 22:07:16.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Dec2024 22:07:19.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Dec2024 22:07:23.553] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.555] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.556] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.557] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.557] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.558] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.559] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.560] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.561] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 22:07:23.980] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[05Dec2024 22:07:24.480] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[05Dec2024 22:07:24.688] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5209 ms
+[05Dec2024 22:07:24.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.129s)! For help, type "help"
+[05Dec2024 22:07:24.731] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Dec2024 22:10:30.119] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player UnViejitoFeo is 21d3863a-7177-4316-b2fb-41ea70504ee5
+[05Dec2024 22:10:38.120] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Dec2024 22:10:38.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnViejitoFeo[/127.110.178.211:42955] logged in with entity id 237 at (-63.5, 87.0, 31.5)
+[05Dec2024 22:10:38.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo joined the game
+[05Dec2024 22:10:38.566] [Server thread/INFO] [Jade/]: Syncing config to UnViejitoFeo (21d3863a-7177-4316-b2fb-41ea70504ee5)
+[05Dec2024 22:13:09.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made UnViejitoFeo a server operator
+[05Dec2024 22:13:27.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnViejitoFeo: Set own game mode to Creative Mode]
+[05Dec2024 22:13:49.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-247, y=-43, z=260}
+[05Dec2024 22:14:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnViejitoFeo: Set own game mode to Survival Mode]
+[05Dec2024 22:14:43.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo lost connection: Disconnected
+[05Dec2024 22:14:43.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo left the game
+[05Dec2024 22:14:46.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Dec2024 22:14:46.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 22:14:46.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 22:14:46.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 22:14:47.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-292, y=-44, z=275}
+[05Dec2024 22:14:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Dec2024 22:14:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Dec2024 22:14:48.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Dec2024 22:14:49.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 22:14:49.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 22:14:49.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 22:14:49.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2024 22:14:49.130] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Dec2024 22:14:49.132] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[05Dec2024 22:14:49.134] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[05Dec2024 22:14:49.141] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
