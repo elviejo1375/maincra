@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-12-07 06:11:14 +0000"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_sunrise": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -470,6 +482,12 @@
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -513,6 +531,12 @@
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2024-12-07 06:53:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -675,6 +699,12 @@
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -900,6 +930,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2024-12-07 06:11:14 +0000"
@@ -951,6 +987,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -1137,6 +1179,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-07 06:14:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -1398,6 +1446,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/workbench": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_log": "2024-12-07 06:14:08 +0000"
@@ -1461,6 +1515,12 @@
   "cfm:recipes/decorations/stripped_birch_mail_box": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -1611,6 +1671,12 @@
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-07 06:14:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -1830,6 +1896,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -1935,6 +2007,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2024-12-07 06:32:42 +0000",
+      "cooked_beef": "2024-12-07 08:01:18 +0000",
       "baked_potato": "2024-12-07 07:03:29 +0000",
       "bread": "2024-12-07 06:53:25 +0000"
     },
@@ -1961,6 +2034,18 @@
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-07 06:14:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -2027,6 +2112,12 @@
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_the_recipe": "2024-12-07 06:18:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -2612,6 +2703,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
@@ -2630,9 +2727,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/vitalic_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -2930,6 +3045,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/post_box": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2024-12-07 06:34:24 +0000"
@@ -2993,6 +3114,12 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -3272,6 +3399,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -3344,6 +3477,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-07 07:32:49 +0000"
@@ -3395,6 +3534,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -3458,9 +3603,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -3536,6 +3693,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-07 06:31:00 +0000"
@@ -3557,6 +3720,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -3635,6 +3804,12 @@
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
@@ -3904,6 +4079,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_stool": {
     "criteria": {
       "has_white_wool": "2024-12-07 07:32:49 +0000"
@@ -3999,6 +4180,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -4026,6 +4213,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-07 08:05:10 +0000"
     },
     "done": true
   },
