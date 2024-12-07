@@ -12419,3 +12419,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Dec2024 06:52:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Not Today, Thank You]
 [07Dec2024 06:52:50.122] [Server thread/DEBUG] [mixin/]: Mixing MixinExplosionDamageCalculator from railways-common.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [07Dec2024 06:52:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Not Today, Thank You]
+[07Dec2024 06:55:36.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 06:55:36.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 06:59:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Suit Up]
+[07Dec2024 07:00:36.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 07:00:36.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 07:02:04.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Monster Hunter]
+[07Dec2024 07:04:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly fell from a high place
+[07Dec2024 07:04:49.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly fell from a high place

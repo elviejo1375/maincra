@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-07 06:52:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-07 06:14:08 +0000"
@@ -435,6 +441,12 @@
   "ars_nouveau:recipes/misc/source_berry_pie": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:53:21 +0000"
     },
     "done": true
   },
@@ -858,9 +870,27 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-07 06:59:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-07 06:53:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-07 06:51:22 +0000"
     },
     "done": true
   },
@@ -879,6 +909,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-07 06:51:22 +0000"
     },
     "done": true
   },
@@ -927,6 +963,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-07 06:52:41 +0000"
     },
     "done": true
   },
@@ -1086,6 +1128,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:53:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -1146,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-07 06:52:41 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_to_chest": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -1161,6 +1215,12 @@
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:53:21 +0000"
     },
     "done": true
   },
@@ -1434,6 +1494,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-07 06:52:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
@@ -1622,7 +1688,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2024-12-07 06:32:42 +0000"
+      "sweet_berries": "2024-12-07 06:32:42 +0000",
+      "bread": "2024-12-07 06:53:25 +0000"
     },
     "done": false
   },
@@ -1689,6 +1756,12 @@
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-07 06:53:41 +0000"
     },
     "done": true
   },
@@ -2694,6 +2767,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:53:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:53:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -3299,6 +3384,12 @@
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 06:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-07 06:51:22 +0000"
     },
     "done": true
   },
