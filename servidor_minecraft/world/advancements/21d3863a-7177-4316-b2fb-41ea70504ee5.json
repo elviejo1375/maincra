@@ -1798,7 +1798,8 @@
       "minecraft:old_growth_pine_taiga": "2024-12-05 22:10:39 +0000",
       "minecraft:taiga": "2024-12-05 22:13:57 +0000",
       "minecraft:beach": "2024-12-05 22:13:44 +0000",
-      "minecraft:river": "2024-12-05 22:13:42 +0000"
+      "minecraft:river": "2024-12-05 22:13:42 +0000",
+      "minecraft:plains": "2024-12-07 06:30:48 +0000"
     },
     "done": false
   },
@@ -1994,6 +1995,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-07 06:40:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2024-12-07 06:15:52 +0000"
@@ -2036,6 +2043,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-07 06:34:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-07 06:15:52 +0000"
@@ -2054,6 +2067,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-07 06:30:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
@@ -2069,6 +2088,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-07 06:35:07 +0000"
     },
     "done": true
   },
@@ -2096,6 +2121,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 06:30:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-07 06:14:20 +0000"
@@ -2113,6 +2144,12 @@
       "has_spruce_dining_bench": "2024-12-07 06:15:52 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2024-12-07 06:31:45 +0000"
+    },
+    "done": false
   },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
@@ -2165,6 +2202,12 @@
   "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
     "criteria": {
       "has_spruce_plank": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:33:30 +0000"
     },
     "done": true
   },
@@ -2228,6 +2271,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-07 06:40:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 06:34:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2024-12-07 06:15:52 +0000"
@@ -2270,6 +2325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-07 06:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-07 06:14:20 +0000"
@@ -2285,6 +2346,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-07 06:16:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-07 06:31:40 +0000"
     },
     "done": true
   },
@@ -2375,6 +2442,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 06:34:35 +0000"
     },
     "done": true
   },
@@ -2474,6 +2547,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 06:16:25 +0000"
@@ -2501,6 +2580,12 @@
   "another_furniture:recipes/warped_drawer": {
     "criteria": {
       "has_planks": "2024-12-07 06:14:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:33:30 +0000"
     },
     "done": true
   },
@@ -2555,6 +2640,18 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-07 06:13:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2024-12-07 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-07 06:40:16 +0000"
     },
     "done": true
   },
@@ -2615,6 +2712,18 @@
   "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 06:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-07 06:34:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2024-12-07 06:30:50 +0000"
     },
     "done": true
   },
@@ -2684,6 +2793,12 @@
     },
     "done": true
   },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-12-07 06:36:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
@@ -2708,9 +2823,28 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 06:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2024-12-07 06:31:48 +0000",
+      "bread": "2024-12-07 06:34:16 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-07 06:34:35 +0000"
     },
     "done": true
   },
@@ -2804,6 +2938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 06:34:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
@@ -2837,6 +2977,12 @@
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_log": "2024-12-07 06:15:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-07 06:31:40 +0000"
     },
     "done": true
   },
@@ -2918,6 +3064,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2024-12-07 06:31:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_spruce_planks": "2024-12-07 06:15:52 +0000"
@@ -2927,6 +3079,12 @@
   "another_furniture:recipes/spruce_table": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 06:34:35 +0000"
     },
     "done": true
   },
@@ -2957,6 +3115,12 @@
   "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2024-12-07 06:15:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2024-12-07 06:30:50 +0000"
     },
     "done": true
   },
@@ -3104,6 +3268,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2024-12-07 06:30:50 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-12-07 06:15:31 +0000"
@@ -3206,9 +3376,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:33:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-07 06:33:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-07 06:30:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 06:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-07 06:30:50 +0000"
     },
     "done": true
   },
@@ -3227,6 +3421,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 06:16:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 06:40:16 +0000"
     },
     "done": true
   },
@@ -3266,6 +3466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-07 06:34:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
@@ -3275,6 +3481,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-07 06:40:16 +0000"
     },
     "done": true
   },
@@ -3371,6 +3583,12 @@
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_tropical_fish_trophy": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 06:30:50 +0000"
     },
     "done": true
   },
@@ -3476,6 +3694,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 06:34:35 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2024-12-07 06:14:20 +0000"
@@ -3485,6 +3709,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2024-12-07 06:34:35 +0000"
     },
     "done": true
   },
@@ -3541,6 +3771,13 @@
       "has_planks": "2024-12-07 06:15:31 +0000"
     },
     "done": true
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:boreal_forest_yellow": "2024-12-07 06:37:54 +0000",
+      "wythers:boreal_forest_red": "2024-12-07 06:37:44 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
@@ -3701,6 +3938,12 @@
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_log": "2024-12-07 06:15:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-07 06:30:50 +0000"
     },
     "done": true
   },

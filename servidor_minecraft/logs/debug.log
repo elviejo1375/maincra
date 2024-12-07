@@ -12393,3 +12393,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Dec2024 06:31:39.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-421, y=-25, z=389}
 [07Dec2024 06:33:29.087] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [07Dec2024 06:33:45.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Crops of the Wild]
+[07Dec2024 06:35:07.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Sweet Dreams]
+[07Dec2024 06:35:36.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 06:35:36.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 06:37:58.243] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-483, y=-10, z=119}
+[07Dec2024 06:40:36.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 06:40:36.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 06:43:14.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Best Friends Forever]
+[07Dec2024 06:44:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Stone Age]

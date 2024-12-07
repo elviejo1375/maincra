@@ -341,3 +341,7 @@
 [07Dec2024 06:31:23.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-401, y=-32, z=374}
 [07Dec2024 06:31:39.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-421, y=-25, z=389}
 [07Dec2024 06:33:45.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Crops of the Wild]
+[07Dec2024 06:35:07.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Sweet Dreams]
+[07Dec2024 06:37:58.243] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-483, y=-10, z=119}
+[07Dec2024 06:43:14.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Best Friends Forever]
+[07Dec2024 06:44:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Stone Age]
