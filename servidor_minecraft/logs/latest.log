@@ -471,3 +471,6 @@
 [07Dec2024 07:43:06.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Don't forget to recycle]
 [07Dec2024 07:52:52.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Diamonds!]
 [07Dec2024 07:54:24.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Amateur Archaeologist]
+[07Dec2024 07:55:36.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-181, y=-48, z=1964}
+[07Dec2024 07:55:36.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-188, y=21, z=2094}
+[07Dec2024 07:58:34.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Amateur Archaeologist]
