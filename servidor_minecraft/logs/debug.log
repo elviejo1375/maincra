@@ -12401,3 +12401,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Dec2024 06:40:36.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Dec2024 06:43:14.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Best Friends Forever]
 [07Dec2024 06:44:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Stone Age]
+[07Dec2024 06:45:36.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 06:45:36.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 06:46:09.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Acquire Hardware]
+[07Dec2024 06:47:01.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly fell from a high place
+[07Dec2024 06:48:11.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly was shot by Skeleton
+[07Dec2024 06:50:36.580] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-302, y=-9, z=512}
+[07Dec2024 06:50:36.584] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-243, y=-38, z=512}
+[07Dec2024 06:50:36.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-110, y=-32, z=526}
+[07Dec2024 06:50:36.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 06:50:36.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 06:50:38.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Isn't It Iron Pick]
+[07Dec2024 06:51:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Isn't It Iron Pick]
+[07Dec2024 06:51:47.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Suit Up]
+[07Dec2024 06:52:05.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! 0.7552182107260137,-11.092873556966694,0.3102843681397758
+[07Dec2024 06:52:19.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Monster Hunter]
+[07Dec2024 06:52:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Not Today, Thank You]
+[07Dec2024 06:52:50.122] [Server thread/DEBUG] [mixin/]: Mixing MixinExplosionDamageCalculator from railways-common.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[07Dec2024 06:52:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Not Today, Thank You]
