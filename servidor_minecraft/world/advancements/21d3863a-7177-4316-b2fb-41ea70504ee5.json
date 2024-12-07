@@ -1799,6 +1799,7 @@
       "minecraft:taiga": "2024-12-05 22:13:57 +0000",
       "minecraft:beach": "2024-12-05 22:13:44 +0000",
       "minecraft:river": "2024-12-05 22:13:42 +0000",
+      "minecraft:cold_ocean": "2024-12-07 07:20:42 +0000",
       "minecraft:forest": "2024-12-07 06:41:05 +0000",
       "minecraft:plains": "2024-12-07 06:30:48 +0000"
     },
@@ -6581,10 +6582,13 @@
     "criteria": {
       "wythers:boreal_forest_yellow": "2024-12-07 06:37:54 +0000",
       "wythers:gravelly_river": "2024-12-07 07:11:58 +0000",
+      "wythers:gravelly_beach": "2024-12-07 07:20:46 +0000",
+      "wythers:temperate_rainforest": "2024-12-07 07:22:36 +0000",
       "wythers:boreal_forest_red": "2024-12-07 06:37:44 +0000",
       "wythers:underground": "2024-12-07 06:46:51 +0000",
       "wythers:crimson_tundra": "2024-12-07 07:12:36 +0000",
-      "wythers:tundra": "2024-12-07 07:12:07 +0000"
+      "wythers:tundra": "2024-12-07 07:12:07 +0000",
+      "wythers:sand_dunes": "2024-12-07 07:20:41 +0000"
     },
     "done": false
   },
