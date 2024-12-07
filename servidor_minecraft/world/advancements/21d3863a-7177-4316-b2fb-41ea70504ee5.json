@@ -4294,6 +4294,7 @@
     "criteria": {
       "sweet_berries": "2024-12-07 06:31:48 +0000",
       "cooked_beef": "2024-12-07 06:55:41 +0000",
+      "baked_potato": "2024-12-07 07:03:03 +0000",
       "bread": "2024-12-07 06:34:16 +0000"
     },
     "done": false
@@ -4508,6 +4509,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 07:03:00 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2024-12-07 06:14:20 +0000"
@@ -4583,6 +4590,12 @@
   "cfm:recipes/decorations/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-07 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-07 07:03:00 +0000"
     },
     "done": true
   },
@@ -6635,6 +6648,12 @@
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-07 07:03:00 +0000"
     },
     "done": true
   },
