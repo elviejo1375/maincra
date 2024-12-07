@@ -464,3 +464,8 @@
 [07Dec2024 07:32:57.810] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-281, y=-40, z=2000}
 [07Dec2024 07:33:12.186] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-535, y=17, z=2207}
 [07Dec2024 07:34:20.210] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-592, y=27, z=2220}
+[07Dec2024 07:35:36.933] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-651, y=-42, z=2217}
+[07Dec2024 07:35:36.966] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-544, y=2, z=2234}
+[07Dec2024 07:35:36.984] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-318, y=-49, z=2235}
+[07Dec2024 07:40:33.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Sweet Dreams]
+[07Dec2024 07:43:06.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Don't forget to recycle]

@@ -2015,6 +2015,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_support": {
     "criteria": {
       "has_plank": "2024-12-07 06:15:52 +0000"
@@ -2189,9 +2195,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
     "criteria": {
       "has_dark_oak_plank": "2024-12-07 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -2222,6 +2246,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -2309,6 +2339,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 06:46:09 +0000"
@@ -2318,6 +2354,12 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-07 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -2369,6 +2411,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_fancy_bed": {
     "criteria": {
       "has_dark_oak_fancy_bed": "2024-12-07 06:51:56 +0000"
@@ -2384,6 +2432,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -2559,6 +2613,12 @@
   "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
     "criteria": {
       "has_dark_oak_plank": "2024-12-07 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -2886,6 +2946,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_grill": {
     "criteria": {
       "has_iron": "2024-12-07 06:46:09 +0000"
@@ -2901,6 +2967,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -3000,6 +3072,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_table": {
     "criteria": {
       "has_log": "2024-12-07 06:49:20 +0000"
@@ -3033,6 +3111,18 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-07 06:49:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -3084,6 +3174,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_seat": {
     "criteria": {
       "has_plank": "2024-12-07 06:51:01 +0000"
@@ -3099,6 +3195,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-07 06:55:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -3222,9 +3324,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-07 06:14:20 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -3291,6 +3405,12 @@
   "decorative_blocks:recipes/decorations/chandelier": {
     "criteria": {
       "has_torch": "2024-12-07 06:52:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -3363,6 +3483,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -3523,6 +3649,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
     "criteria": {
       "has_oak_planks": "2024-12-07 06:51:01 +0000"
@@ -3538,6 +3676,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -3607,6 +3751,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-07 06:49:20 +0000"
@@ -3637,6 +3787,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-07 06:46:09 +0000"
@@ -3652,6 +3808,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-07 06:46:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -3775,6 +3937,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
@@ -3823,6 +3991,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2024-12-07 06:51:01 +0000"
@@ -3865,9 +4039,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -3931,6 +4123,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/granite": {
     "criteria": {
       "has_the_recipe": "2024-12-07 06:49:20 +0000"
@@ -3982,6 +4180,12 @@
   "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-07 06:49:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -4111,6 +4315,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-07 06:42:20 +0000"
@@ -4123,15 +4333,33 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 06:46:09 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-07 06:14:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -4144,6 +4372,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -4180,6 +4414,24 @@
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2024-12-07 06:14:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -4249,6 +4501,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
@@ -4264,6 +4522,12 @@
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-07 06:15:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -4384,6 +4648,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/brown_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-07 06:51:56 +0000"
@@ -4429,6 +4699,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -4525,6 +4801,12 @@
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -4714,6 +4996,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 06:49:20 +0000"
@@ -4742,6 +5030,18 @@
     "criteria": {
       "has_wood": "2024-12-07 06:51:01 +0000",
       "has_the_recipe": "2024-12-07 06:51:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -4784,6 +5084,12 @@
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2024-12-07 06:42:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -4994,6 +5300,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2024-12-07 06:15:31 +0000"
@@ -5018,6 +5330,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-07 06:46:39 +0000"
@@ -5039,6 +5357,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5150,6 +5474,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-07 06:49:23 +0000"
@@ -5159,6 +5489,18 @@
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2024-12-07 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5183,6 +5525,12 @@
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2024-12-07 06:14:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5264,6 +5612,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2024-12-07 06:15:52 +0000"
@@ -5273,6 +5627,12 @@
   "cfm:recipes/decorations/gray_grill": {
     "criteria": {
       "has_iron": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5312,6 +5672,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2024-12-07 06:51:01 +0000"
@@ -5333,6 +5699,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-07 06:14:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5408,6 +5780,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2024-12-07 06:51:01 +0000"
@@ -5456,9 +5834,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5477,6 +5867,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 06:15:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5510,6 +5906,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 06:49:23 +0000"
@@ -5528,9 +5936,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2024-12-07 06:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -5588,6 +6008,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_the_recipe": "2024-12-07 06:49:20 +0000"
@@ -5603,6 +6029,12 @@
   "decorative_blocks:recipes/building_blocks/bar_panel": {
     "criteria": {
       "has_ingot": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5696,6 +6128,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 06:46:09 +0000"
@@ -5768,6 +6206,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
       "has_dark_oak_corner_trim": "2024-12-07 06:51:56 +0000"
@@ -5834,6 +6278,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 06:15:31 +0000"
@@ -5894,6 +6344,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 06:46:09 +0000"
@@ -5936,9 +6392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-07 06:44:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -5957,6 +6425,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-07 06:15:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -6074,6 +6548,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-07 06:46:39 +0000"
@@ -6137,6 +6617,12 @@
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2024-12-07 06:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -6215,6 +6701,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -6398,6 +6890,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2024-12-07 06:15:52 +0000"
@@ -6422,6 +6920,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/misc/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2024-12-07 06:49:20 +0000"
@@ -6434,9 +6938,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_trampoline": {
     "criteria": {
       "has_iron": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -6572,9 +7094,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2024-12-07 06:46:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },
@@ -6736,6 +7270,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-07 06:51:56 +0000"
@@ -6775,6 +7315,18 @@
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
     },
     "done": true
   },
@@ -6850,9 +7402,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-07 07:36:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:31:58 +0000"
     },
     "done": true
   },

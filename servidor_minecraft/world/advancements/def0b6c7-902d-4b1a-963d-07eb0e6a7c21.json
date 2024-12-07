@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-07 06:31:01 +0000"
@@ -104,6 +110,12 @@
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
       "has_logs": "2024-12-07 06:14:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -209,6 +227,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -218,6 +242,12 @@
   "ars_nouveau:recipes/misc/spike_to_arrow": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -257,6 +287,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-07 06:11:14 +0000"
@@ -281,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-07 07:40:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-07 06:12:15 +0000"
@@ -290,6 +332,12 @@
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -317,9 +365,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2024-12-07 06:14:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -462,6 +522,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-07 06:45:19 +0000"
@@ -495,6 +561,12 @@
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -654,6 +726,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
@@ -663,6 +741,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -729,6 +813,12 @@
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -846,6 +936,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -879,6 +975,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-07 06:59:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -933,6 +1035,12 @@
   "ars_nouveau:recipes/misc/wipe_starby_shard": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1032,6 +1140,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -1044,9 +1158,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/green_sbed": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1059,6 +1185,12 @@
   "cfm:recipes/decorations/magenta_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1260,9 +1392,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1356,6 +1506,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -1374,9 +1530,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2024-12-07 06:14:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1389,6 +1557,12 @@
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "has_the_recipe": "2024-12-07 06:18:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1524,6 +1698,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
@@ -1554,9 +1734,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1569,6 +1761,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 06:44:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1680,6 +1878,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/yellow_sbed": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -1717,6 +1921,12 @@
       "bread": "2024-12-07 06:53:25 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
@@ -1808,6 +2018,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-07 07:02:04 +0000"
@@ -1817,6 +2033,12 @@
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1844,6 +2066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -1853,6 +2081,12 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -1931,6 +2165,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2036,6 +2276,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2024-12-07 06:33:45 +0000"
@@ -2051,6 +2297,12 @@
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-07 06:28:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2141,6 +2393,12 @@
   "ars_nouveau:recipes/decorations/sourcestone_16": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2300,6 +2558,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_gem_block_2": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -2354,6 +2618,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-07 06:14:08 +0000"
@@ -2363,6 +2633,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2399,6 +2675,12 @@
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2684,6 +2966,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/item_detector": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -2708,9 +2996,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2741,6 +3041,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 06:44:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2807,6 +3113,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2894,6 +3206,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 06:44:42 +0000"
@@ -2918,6 +3236,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2024-12-07 06:31:01 +0000"
@@ -2933,6 +3257,12 @@
   "ars_nouveau:recipes/misc/ritual_scrying": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -2972,6 +3302,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -2981,6 +3317,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -3008,9 +3350,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -3068,6 +3422,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -3086,6 +3446,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-07 06:12:33 +0000"
@@ -3095,6 +3461,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-07 06:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -3113,6 +3485,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -3194,6 +3572,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-07 06:18:51 +0000"
@@ -3209,6 +3599,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-07 06:14:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_trampoline": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -3260,6 +3656,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sky_block": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -3284,6 +3698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/item_trash_can": {
     "criteria": {
       "recipe_condition": "2024-12-07 06:34:24 +0000"
@@ -3305,6 +3725,18 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -3338,6 +3770,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
@@ -3356,6 +3794,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-07 06:14:09 +0000"
@@ -3371,6 +3815,12 @@
   "ars_nouveau:recipes/misc/allow_scroll": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -3398,6 +3848,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "wythers:world_explorer": {
     "criteria": {
       "wythers:boreal_forest_yellow": "2024-12-07 06:37:58 +0000",
@@ -3411,6 +3873,18 @@
       "wythers:sand_dunes": "2024-12-07 07:20:47 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
@@ -3454,6 +3928,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-07 06:51:22 +0000"
@@ -3474,6 +3954,12 @@
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2024-12-07 06:11:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
@@ -3543,6 +4029,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-07 06:28:25 +0000"
@@ -3552,6 +4050,18 @@
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-07 06:34:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-07 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_white_wool": "2024-12-07 07:32:49 +0000"
     },
     "done": true
   },
