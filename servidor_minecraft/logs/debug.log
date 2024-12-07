@@ -12367,3 +12367,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Dec2024 06:12:08.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Alex's Mobs]
 [07Dec2024 06:12:11.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-67, y=64, z=32}
 [07Dec2024 06:12:33.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Alex's Mobs]
+[07Dec2024 06:15:36.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 06:15:36.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 06:15:58.977] [Server thread/DEBUG] [mixin/]: Mixing ContainerLevelAccessMixin from railways.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[07Dec2024 06:16:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Stone Age]
+[07Dec2024 06:16:57.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Getting an Upgrade]
+[07Dec2024 06:18:51.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haasly has made the advancement [Getting an Upgrade]
+[07Dec2024 06:20:36.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 06:20:36.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 06:22:55.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule playersSleepingPercentage is now set to: -1
