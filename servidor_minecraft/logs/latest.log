@@ -2080,3 +2080,7 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [31Jan2025 13:09:32.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7869ms or 157 ticks behind
 [31Jan2025 13:16:49.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Your First Generator]
 [31Jan2025 13:17:11.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [A Metallur-what?]
+[31Jan2025 13:23:07.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [The Perfect Foundation]
+[31Jan2025 13:23:11.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Tricking a Rock Into Thinking]
+[31Jan2025 13:23:39.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has reached the goal [The Factory Must Grow!]
+[31Jan2025 13:24:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [The Alloy That Started it All]

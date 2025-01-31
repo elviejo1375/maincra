@@ -6386,6 +6386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/reactor/basic/solidaccessport": {
     "criteria": {
       "has_item": "2025-01-31 12:59:49 +0000"
@@ -6410,9 +6416,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -6452,6 +6470,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/sand_stone_bricks": {
     "criteria": {
       "has_item1_domum_ornamentum_sand_stone_bricks": "2025-01-31 12:58:05 +0000",
@@ -6471,6 +6501,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/amber_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
@@ -6480,6 +6522,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -6531,6 +6579,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
@@ -6549,6 +6603,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
@@ -6564,6 +6624,18 @@
   "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-31 13:20:44 +0000"
     },
     "done": true
   },
@@ -6639,6 +6711,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2025-01-31 13:09:46 +0000"
@@ -6711,9 +6789,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
     },
     "done": true
   },
@@ -6750,6 +6840,12 @@
   "occultism:recipes/crushing/crushing/crimson_iron_dust_from_raw": {
     "criteria": {
       "has_raw_crimson_iron": "2025-01-31 13:09:54 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
     },
     "done": true
   },
@@ -6807,6 +6903,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -6819,6 +6921,12 @@
     },
     "done": true
   },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-01-31 13:24:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
@@ -6828,6 +6936,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -6879,6 +6993,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/sapphire_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
@@ -6891,9 +7011,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
     "criteria": {
       "has_quartz_gem": "2025-01-31 13:09:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -6957,6 +7089,12 @@
     },
     "done": true
   },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-01-31 13:23:39 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/reactor/basic/fuelrod_ingots_uranium": {
     "criteria": {
       "has_item": "2025-01-31 12:57:25 +0000"
@@ -6993,6 +7131,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/filter_module": {
     "criteria": {
       "hopper": "2025-01-31 13:02:09 +0000"
@@ -7014,6 +7158,12 @@
   "dyenamics:recipes/misc/mint_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -7059,6 +7209,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-31 13:20:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_tool": {
     "criteria": {
       "has_redstone_torch": "2025-01-31 13:11:21 +0000"
@@ -7077,15 +7233,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/ultramarine_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-31 13:09:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -7155,6 +7329,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_salt": "2025-01-31 12:58:15 +0000"
@@ -7164,6 +7344,18 @@
   "alltheores:recipes/misc/uranium_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-31 12:57:25 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-01-31 13:23:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -7203,6 +7395,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/beige_stone_bricks": {
     "criteria": {
       "has_item1_domum_ornamentum_beige_stone_bricks": "2025-01-31 13:08:09 +0000",
@@ -7222,9 +7426,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/misc/kvasir_mead": {
     "criteria": {
       "criterion1": "2025-01-31 12:55:41 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
     },
     "done": true
   },
@@ -7264,9 +7480,21 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-01-31 13:22:03 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
     },
     "done": true
   },
@@ -7300,6 +7528,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/osmium_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-01-31 13:15:54 +0000"
@@ -7330,6 +7564,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
@@ -7345,6 +7585,18 @@
   "dyenamics:recipes/misc/rose_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -7375,6 +7627,12 @@
   "alltheores:recipes/misc/gold_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-31 13:20:19 +0000"
     },
     "done": true
   },
@@ -7441,6 +7699,18 @@
   "croptopia:recipes/crema": {
     "criteria": {
       "has_salt": "2025-01-31 12:58:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-01-31 13:23:07 +0000"
     },
     "done": true
   },
@@ -7540,6 +7810,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/rose_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -7561,6 +7837,12 @@
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -7660,6 +7942,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/spring_green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -7687,6 +7975,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
     },
     "done": true
   },
@@ -7726,6 +8020,18 @@
     },
     "done": true
   },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-01-31 13:17:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/animated_torch": {
     "criteria": {
       "has_item": "2025-01-31 13:11:21 +0000"
@@ -7741,6 +8047,12 @@
   "ae2:recipes/misc/tools/nether_quartz_hoe": {
     "criteria": {
       "has_nether_quartz": "2025-01-31 13:09:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -7828,6 +8140,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
@@ -7855,6 +8173,18 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-01-31 13:09:46 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-31 13:21:57 +0000"
     },
     "done": true
   },
@@ -7904,6 +8234,18 @@
   "bigreactors:recipes/building_blocks/fluidizer/fluidinjector": {
     "criteria": {
       "has_item2": "2025-01-31 13:01:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-01-31 13:16:49 +0000"
     },
     "done": true
   },
