@@ -44,15 +44,26 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-31 02:02:41 +0000",
+      "minecraft:eroded_badlands": "2025-01-31 14:06:24 +0000",
       "minecraft:frozen_river": "2025-01-31 01:46:07 +0000",
+      "minecraft:bamboo_jungle": "2025-01-31 14:05:22 +0000",
+      "minecraft:sparse_jungle": "2025-01-31 14:05:39 +0000",
       "minecraft:river": "2025-01-31 01:56:46 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-31 14:04:50 +0000",
       "minecraft:stony_shore": "2025-01-31 01:42:48 +0000",
       "minecraft:snowy_taiga": "2025-01-31 01:45:36 +0000",
       "minecraft:grove": "2025-01-31 01:38:16 +0000",
+      "minecraft:cold_ocean": "2025-01-31 14:03:34 +0000",
+      "minecraft:forest": "2025-01-31 14:04:21 +0000",
       "minecraft:lush_caves": "2025-01-31 02:08:12 +0000",
       "minecraft:frozen_ocean": "2025-01-31 01:46:15 +0000",
+      "minecraft:desert": "2025-01-31 14:06:21 +0000",
+      "minecraft:jungle": "2025-01-31 14:05:25 +0000",
+      "minecraft:ocean": "2025-01-31 14:03:42 +0000",
       "minecraft:snowy_beach": "2025-01-31 13:49:38 +0000",
-      "minecraft:deep_dark": "2025-01-31 12:38:30 +0000"
+      "minecraft:deep_dark": "2025-01-31 12:38:30 +0000",
+      "minecraft:savanna": "2025-01-31 14:06:18 +0000",
+      "minecraft:plains": "2025-01-31 14:04:36 +0000"
     },
     "done": false
   },
@@ -6414,6 +6425,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-01-31 13:58:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-31 13:20:19 +0000"
@@ -7135,6 +7152,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-01-31 14:01:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-31 13:59:05 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
@@ -7222,6 +7251,12 @@
   "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
     "criteria": {
       "has_quartz_gem": "2025-01-31 13:09:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-31 13:59:05 +0000"
     },
     "done": true
   },
@@ -7651,6 +7686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-01-31 14:01:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/beef_jerky": {
     "criteria": {
       "has_salt": "2025-01-31 12:58:15 +0000"
@@ -7723,6 +7764,12 @@
     },
     "done": true
   },
+  "structurecompass:recipes/tools/structure_compass": {
+    "criteria": {
+      "has_compass": "2025-01-31 14:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-01-31 13:42:33 +0000"
@@ -7774,6 +7821,12 @@
   "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-31 13:59:05 +0000"
     },
     "done": true
   },
@@ -8006,6 +8059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-31 13:58:49 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/red_shield_template_block": {
     "criteria": {
       "glass": "2025-01-31 12:59:34 +0000"
@@ -8231,6 +8290,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-01-31 13:59:05 +0000"
     },
     "done": true
   },
@@ -8474,6 +8539,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-31 13:59:05 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/spring_green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -8582,9 +8653,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-01-31 13:59:05 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-31 13:58:49 +0000"
     },
     "done": true
   },
@@ -8693,6 +8776,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-31 13:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-01-31 14:01:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-01-31 13:59:05 +0000"
     },
     "done": true
   },
