@@ -8651,3 +8651,8 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [31Jan2025 01:38:07.358] [Server thread/INFO] [Jade/]: Syncing config to UnViejitoFeo (21d3863a-7177-4316-b2fb-41ea70504ee5)
 [31Jan2025 01:38:12.469] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
 [31Jan2025 01:38:15.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9401ms or 188 ticks behind
+[31Jan2025 01:40:41.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made UnViejitoFeo a server operator
+[31Jan2025 01:42:12.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Acquire Hardware]
+[31Jan2025 01:42:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Isn't It Iron Pick]
+[31Jan2025 01:44:32.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Stone Age]
+[31Jan2025 01:47:41.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -1.249554153833742,-9.91751831549783,-0.8034547777559808
