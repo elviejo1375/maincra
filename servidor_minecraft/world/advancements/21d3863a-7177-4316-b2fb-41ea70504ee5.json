@@ -50,7 +50,8 @@
       "minecraft:snowy_taiga": "2025-01-31 01:45:36 +0000",
       "minecraft:grove": "2025-01-31 01:38:16 +0000",
       "minecraft:lush_caves": "2025-01-31 02:08:12 +0000",
-      "minecraft:frozen_ocean": "2025-01-31 01:46:15 +0000"
+      "minecraft:frozen_ocean": "2025-01-31 01:46:15 +0000",
+      "minecraft:deep_dark": "2025-01-31 12:38:30 +0000"
     },
     "done": false
   },
@@ -2091,7 +2092,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-31 01:44:14 +0000",
-      "baked_potato": "2025-01-31 12:17:22 +0000"
+      "baked_potato": "2025-01-31 12:17:22 +0000",
+      "bread": "2025-01-31 12:36:52 +0000",
+      "golden_apple": "2025-01-31 12:41:10 +0000"
     },
     "done": false
   },
@@ -5745,6 +5748,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
     "criteria": {
       "has_raw_nickel": "2025-01-31 12:17:25 +0000"
@@ -5754,6 +5763,12 @@
   "computercraft:recipes/redstone/computer_advanced": {
     "criteria": {
       "has_components": "2025-01-31 12:29:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -5847,6 +5862,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
     "criteria": {
       "has_darkstone": "2025-01-31 12:30:08 +0000"
@@ -5901,6 +5922,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_bread": {
     "criteria": {
       "has_bread": "2025-01-31 12:36:06 +0000"
@@ -5910,6 +5937,18 @@
   "alltheores:recipes/misc/lead_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-01-31 12:23:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-01-31 12:38:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -5928,6 +5967,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -5991,9 +6036,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/twig_wand": {
     "criteria": {
       "has_item": "2025-01-31 12:34:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -6045,6 +6108,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/blueprint_components": {
     "criteria": {
       "has_paper": "2025-01-31 12:32:44 +0000"
@@ -6093,6 +6162,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
       "has_raw_lead": "2025-01-31 12:23:34 +0000"
@@ -6105,9 +6180,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2025-01-31 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -6165,9 +6252,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/emerald_shard": {
     "criteria": {
       "has_item": "2025-01-31 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -6177,9 +6276,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-01-31 12:27:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -6192,6 +6309,12 @@
   "rftoolspower:recipes/rftoolspower/powercell_card": {
     "criteria": {
       "paper": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
