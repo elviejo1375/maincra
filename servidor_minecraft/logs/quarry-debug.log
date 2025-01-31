@@ -1,29 +1,6 @@
-[2025-01-31T02:47:31,663][W] [TQW/initialLog]: Config in 'A Minecraft Server'
+[2025-01-31T12:10:58,783][W] [TQW/initialLog]: Config in 'A Minecraft Server'
 {
   "common": {
-    "acceptableEnchantmentsMap": {
-      "mini_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking"
-      ],
-      "adv_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ],
-      "adv_pump": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune"
-      ],
-      "quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ]
-    },
     "powerMap": {
       "mini_quarry": {
         "maxEnergy": 1000.0,
@@ -76,31 +53,28 @@
         "breakSilktouchCoefficient": 4.0
       }
     },
-    "enableMap": {
-      "mini_quarry": true,
-      "spawner_controller": false,
-      "fuel_module_normal": true,
-      "exp_module": true,
-      "pump_module": true,
-      "filter_module": true,
-      "remove_bedrock_module": false,
-      "replacer": false,
-      "replacer_module": false,
-      "repeat_tick_module": false,
-      "remote_placer": false,
-      "quarry": true,
-      "filler_module": true,
-      "solid_fuel_quarry": true,
-      "adv_quarry": true,
-      "mover": true,
-      "placer_plus": true,
-      "adv_pump": true,
-      "filler": true,
-      "mining_well": true,
-      "exp_pump": true,
-      "book_mover": true,
-      "workbench": true,
-      "pump_plus": true
+    "acceptableEnchantmentsMap": {
+      "mini_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking"
+      ],
+      "adv_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ],
+      "adv_pump": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune"
+      ],
+      "quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ]
     },
     "common": {
       "reduceMarkerGuideLineIfPlayerIsFar": false,
@@ -126,6 +100,32 @@
       "allowWorkInClaimedChunkByFBTChunks": false,
       "enableChunkLoader": false,
       "logAllQuarryWork": false
+    },
+    "enableMap": {
+      "mini_quarry": true,
+      "spawner_controller": false,
+      "fuel_module_normal": true,
+      "exp_module": true,
+      "pump_module": true,
+      "filter_module": true,
+      "remove_bedrock_module": false,
+      "replacer": false,
+      "replacer_module": false,
+      "repeat_tick_module": false,
+      "remote_placer": false,
+      "quarry": true,
+      "filler_module": true,
+      "solid_fuel_quarry": true,
+      "adv_quarry": true,
+      "mover": true,
+      "placer_plus": true,
+      "adv_pump": true,
+      "filler": true,
+      "mining_well": true,
+      "exp_pump": true,
+      "book_mover": true,
+      "workbench": true,
+      "pump_plus": true
     }
   },
   "server": {
