@@ -51,6 +51,7 @@
       "minecraft:grove": "2025-01-31 01:38:16 +0000",
       "minecraft:lush_caves": "2025-01-31 02:08:12 +0000",
       "minecraft:frozen_ocean": "2025-01-31 01:46:15 +0000",
+      "minecraft:snowy_beach": "2025-01-31 13:49:38 +0000",
       "minecraft:deep_dark": "2025-01-31 12:38:30 +0000"
     },
     "done": false
@@ -2091,6 +2092,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-31 13:40:51 +0000",
       "honey_bottle": "2025-01-31 13:07:13 +0000",
       "cooked_beef": "2025-01-31 01:44:14 +0000",
       "baked_potato": "2025-01-31 12:17:22 +0000",
@@ -4152,6 +4154,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-31 02:10:56 +0000",
+      "minecraft:hoglin": "2025-01-31 13:37:17 +0000",
       "minecraft:spider": "2025-01-31 02:14:51 +0000",
       "minecraft:creeper": "2025-01-31 02:09:19 +0000",
       "minecraft:cave_spider": "2025-01-31 02:15:07 +0000",
@@ -6350,6 +6353,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-31 13:37:28 +0000",
+      "minecraft:nether_wastes": "2025-01-31 13:39:53 +0000"
+    },
+    "done": false
+  },
   "dyenamics:recipes/misc/wine_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -6374,9 +6384,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_ingot_from_dust": {
     "criteria": {
       "has_item": "2025-01-31 12:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/spring_green_dye": {
+    "criteria": {
+      "has_glowstone": "2025-01-31 13:39:35 +0000"
     },
     "done": true
   },
@@ -6389,6 +6417,18 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-01-31 13:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -6434,9 +6474,33 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-31 13:51:15 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-01-31 13:43:35 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/fluorescent_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bubblegum_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -6476,6 +6540,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-31 13:37:19 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-31 13:20:19 +0000"
@@ -6501,9 +6577,21 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/maroon_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/blackstone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-01-31 13:42:33 +0000"
     },
     "done": true
   },
@@ -6537,6 +6625,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/spring_green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-31 12:59:34 +0000"
@@ -6558,6 +6652,12 @@
   "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
       "has_item": "2025-01-31 13:02:17 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/rose_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -6609,6 +6709,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2025-01-31 13:39:35 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
@@ -6651,6 +6757,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/navy_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/uranium_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-31 12:57:25 +0000"
@@ -6666,6 +6778,18 @@
   "dyenamics:recipes/misc/mint_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
+    "criteria": {
+      "shard": "2025-01-31 13:42:05 +0000"
     },
     "done": true
   },
@@ -6696,6 +6820,12 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-01-31 13:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -6771,15 +6901,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/reactor/reinforced/activetap_fe": {
     "criteria": {
       "has_item2": "2025-01-31 13:02:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
     },
     "done": true
   },
@@ -6798,6 +6946,18 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -6849,6 +7009,12 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-01-31 13:32:20 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/dead_bush": {
     "criteria": {
       "has_salts": "2025-01-31 12:58:15 +0000"
@@ -6876,6 +7042,18 @@
   "bigreactors:recipes/building_blocks/reprocessor/fluidinjector": {
     "criteria": {
       "has_item2": "2025-01-31 13:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
     },
     "done": true
   },
@@ -6915,6 +7093,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-01-31 13:36:43 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/sand_1x": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -6924,6 +7108,12 @@
   "mekanism:infused_alloy": {
     "criteria": {
       "alloy_infused": "2025-01-31 13:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -6954,6 +7144,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/conifer_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -7017,9 +7213,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
     "criteria": {
       "has_quartz_gem": "2025-01-31 13:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
     },
     "done": true
   },
@@ -7047,9 +7255,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2025-01-31 13:28:46 +0000"
     },
     "done": true
   },
@@ -7062,6 +7282,18 @@
   "dyenamics:recipes/misc/wine_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-31 13:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
     },
     "done": true
   },
@@ -7083,6 +7315,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-01-31 13:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/osmium_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-01-31 13:15:54 +0000"
@@ -7092,6 +7336,12 @@
   "mekanism:factory": {
     "criteria": {
       "factory": "2025-01-31 13:23:39 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/blackstone_1x": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
     },
     "done": true
   },
@@ -7125,6 +7375,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-01-31 13:37:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-01-31 12:55:41 +0000"
@@ -7140,6 +7396,12 @@
   "rftoolsbase:recipes/rftoolsbase/filter_module": {
     "criteria": {
       "hopper": "2025-01-31 13:02:09 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/moduleplus_template": {
+    "criteria": {
+      "dimshards": "2025-01-31 13:42:05 +0000"
     },
     "done": true
   },
@@ -7167,9 +7429,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-31 13:37:19 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-01-31 13:37:19 +0000"
     },
     "done": true
   },
@@ -7191,6 +7465,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/ultramarine_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -7203,9 +7483,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/lavender_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/fluidizer/controller": {
+    "criteria": {
+      "has_item2": "2025-01-31 13:39:35 +0000"
     },
     "done": true
   },
@@ -7233,6 +7525,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/steel_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-31 13:21:57 +0000"
@@ -7254,6 +7552,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-31 13:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
     },
     "done": true
   },
@@ -7287,6 +7591,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-31 13:39:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
@@ -7308,6 +7636,18 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-31 13:05:40 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/mint_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
     },
     "done": true
   },
@@ -7353,6 +7693,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
@@ -7371,9 +7723,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/icy_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
     },
     "done": true
   },
@@ -7401,6 +7765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
@@ -7417,6 +7787,12 @@
   "alltheores:recipes/misc/uranium_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-01-31 12:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
     },
     "done": true
   },
@@ -7468,6 +7844,18 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/aquamarine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-31 13:37:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -7477,6 +7865,12 @@
   "dyenamics:recipes/misc/peach_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/energizer/controller": {
+    "criteria": {
+      "has_item2": "2025-01-31 13:39:35 +0000"
     },
     "done": true
   },
@@ -7507,6 +7901,12 @@
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -7555,6 +7955,12 @@
   "bigreactors:recipes/misc/crafting/graphite_component_to_storage": {
     "criteria": {
       "has_item": "2025-01-31 12:56:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-31 13:40:46 +0000"
     },
     "done": true
   },
@@ -7672,6 +8078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/reactor/basic/controller_ingots_uranium": {
     "criteria": {
       "has_item2": "2025-01-31 12:57:25 +0000"
@@ -7690,6 +8102,18 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/module_template": {
+    "criteria": {
+      "dimshards": "2025-01-31 13:42:05 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/fluorescent_dye": {
+    "criteria": {
+      "has_glowstone": "2025-01-31 13:39:35 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/snad/snad": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -7702,9 +8126,21 @@
     },
     "done": true
   },
+  "productivebees:husbandry/advanced_beehive/expansion_box/hive_upgrades": {
+    "criteria": {
+      "get_item": "2025-01-31 13:46:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-01-31 13:29:58 +0000"
     },
     "done": true
   },
@@ -7726,9 +8162,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/conifer_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/wine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -7762,9 +8210,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-01-31 13:32:11 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/ultramarine_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -7780,6 +8258,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/fluorescent_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
@@ -7789,6 +8273,12 @@
   "bigreactors:recipes/building_blocks/reactor/basic/redstoneport": {
     "criteria": {
       "has_item": "2025-01-31 12:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -7804,6 +8294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-31 13:28:46 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
     "criteria": {
       "glass": "2025-01-31 12:59:34 +0000"
@@ -7813,6 +8309,12 @@
   "alltheores:recipes/misc/steel_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -7882,6 +8384,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/honey_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
@@ -7903,6 +8417,18 @@
   "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
     "criteria": {
       "has_redstone_torch": "2025-01-31 13:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/icy_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -7990,6 +8516,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/amber_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/conifer_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
@@ -7999,6 +8531,12 @@
   "advancedperipherals:recipes/redstone/peripheral_casing": {
     "criteria": {
       "has_item": "2025-01-31 13:02:17 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -8014,6 +8552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-31 13:05:40 +0000"
@@ -8026,6 +8570,18 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/persimmon_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
@@ -8035,6 +8591,12 @@
   "botania:recipes/redstone/animated_torch": {
     "criteria": {
       "has_item": "2025-01-31 13:11:21 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-01-31 13:51:15 +0000"
     },
     "done": true
   },
@@ -8065,6 +8627,12 @@
   "dyenamics:recipes/misc/bubblegum_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/cherenkov_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -8116,6 +8684,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-31 13:37:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-31 13:08:09 +0000"
@@ -8125,6 +8699,24 @@
   "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
     "criteria": {
       "has_netherrack": "2025-01-31 13:09:43 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/activefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-01-31 13:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-31 13:37:19 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/cherenkov_dye": {
+    "criteria": {
+      "has_glowstone": "2025-01-31 13:39:35 +0000"
     },
     "done": true
   },
@@ -8164,9 +8756,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/lavender_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-31 13:51:52 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
     "criteria": {
       "has_iron_dust": "2025-01-31 12:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
     },
     "done": true
   },
@@ -8179,6 +8789,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
     },
     "done": true
   },
@@ -8221,6 +8837,18 @@
   "alltheores:recipes/misc/copper_ore_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/energizer/computerport": {
+    "criteria": {
+      "has_item2": "2025-01-31 13:39:35 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-01-31 13:51:52 +0000"
     },
     "done": true
   },
@@ -8268,6 +8896,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
+    "criteria": {
+      "shard": "2025-01-31 13:42:05 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/maroon_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -8283,6 +8917,12 @@
   "bigreactors:recipes/building_blocks/turbine/basic/activetap_fe": {
     "criteria": {
       "has_item2": "2025-01-31 13:02:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-31 13:42:33 +0000"
     },
     "done": true
   },
