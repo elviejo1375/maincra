@@ -2068,3 +2068,15 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [31Jan2025 12:50:42.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnViejitoFeo[/100.82.77.97:50291] logged in with entity id 8089 at (-1170.2339299461228, 72.0, 92.31010783064184)
 [31Jan2025 12:50:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo joined the game
 [31Jan2025 12:50:42.728] [Server thread/INFO] [Jade/]: Syncing config to UnViejitoFeo (21d3863a-7177-4316-b2fb-41ea70504ee5)
+[31Jan2025 13:03:37.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -8.58915481546478,1.0,-5.108381156445077
+[31Jan2025 13:05:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Ice Bucket Challenge]
+[31Jan2025 13:06:11.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnViejitoFeo: Set own game mode to Spectator Mode]
+[31Jan2025 13:06:20.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -1.7666354001796662,9.750000387430191,-1.8227888578093996
+[31Jan2025 13:06:33.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -9.937904818797506,0.0,-1.7926009456174938
+[31Jan2025 13:06:42.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnViejitoFeo: Set own game mode to Survival Mode]
+[31Jan2025 13:07:17.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4019ms or 80 ticks behind
+[31Jan2025 13:09:24.483] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[31Jan2025 13:09:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [We Need to Go Deeper]
+[31Jan2025 13:09:32.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7869ms or 157 ticks behind
+[31Jan2025 13:16:49.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Your First Generator]
+[31Jan2025 13:17:11.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [A Metallur-what?]
