@@ -6346,6 +6346,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/navy_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/reactor/basic/controlrod": {
     "criteria": {
       "has_item": "2025-01-31 12:59:49 +0000"
@@ -6392,6 +6398,12 @@
   "dyenamics:recipes/misc/persimmon_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/bubblegum_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -6443,6 +6455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-31 13:51:52 +0000"
@@ -6470,6 +6488,12 @@
   "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-01-31 14:11:02 +0000"
     },
     "done": true
   },
@@ -6509,6 +6533,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/lavender_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-31 13:42:33 +0000"
@@ -6539,6 +6569,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/ultramarine_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
@@ -6560,6 +6596,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-31 13:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -6621,6 +6663,12 @@
   "dyenamics:recipes/misc/amber_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -6723,6 +6771,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -6978,6 +7032,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/fluorescent_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-31 13:20:19 +0000"
@@ -7056,6 +7116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/building_blocks/reprocessor/fluidinjector": {
     "criteria": {
       "has_item2": "2025-01-31 13:01:44 +0000"
@@ -7107,6 +7173,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -7167,6 +7239,12 @@
   "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -7314,6 +7392,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/wine_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
@@ -7329,6 +7413,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-01-31 13:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -7398,6 +7488,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/conifer_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -7425,6 +7521,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/persimmon_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -7461,6 +7563,12 @@
   "alltheores:recipes/misc/steel_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -7515,6 +7623,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-31 12:59:34 +0000"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_hopper_pot": {
+    "criteria": {
+      "get_hopper_pot": "2025-01-31 14:11:11 +0000"
     },
     "done": true
   },
@@ -7692,6 +7806,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/wine_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/beef_jerky": {
     "criteria": {
       "has_salt": "2025-01-31 12:58:15 +0000"
@@ -7800,6 +7920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-31 12:59:34 +0000"
@@ -7821,6 +7947,12 @@
   "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-01-31 14:11:02 +0000"
     },
     "done": true
   },
@@ -7870,6 +8002,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-01-31 13:20:19 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/amber_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -7933,6 +8071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
@@ -7963,6 +8107,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/icy_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/aquamarine_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
@@ -7978,6 +8134,12 @@
   "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/peach_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -8020,6 +8182,12 @@
   "alltheores:recipes/misc/osmium_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-01-31 13:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -8104,6 +8272,12 @@
   "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/rose_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -8209,6 +8383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-01-31 13:05:40 +0000"
@@ -8242,6 +8422,18 @@
   "alltheores:recipes/misc/bronze_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/aquamarine_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/mint_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -8287,6 +8479,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/cherenkov_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-31 13:42:33 +0000"
@@ -8314,6 +8512,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -8485,6 +8689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-31 13:42:33 +0000"
@@ -8605,6 +8815,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/spring_green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "dyenamics:recipes/misc/peach_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-31 13:51:52 +0000"
@@ -8653,6 +8869,12 @@
     },
     "done": true
   },
+  "dyenamics:recipes/misc/maroon_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/copper_barrel": {
     "criteria": {
       "has_barrel": "2025-01-31 13:59:05 +0000"
@@ -8686,6 +8908,13 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-31 12:58:05 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/brown_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_brown_bricks": "2025-01-31 14:07:22 +0000",
+      "has_item1_domum_ornamentum_brown_bricks": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -8830,6 +9059,12 @@
   "immersiveengineering:recipes/misc/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2025-01-31 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },
@@ -8988,6 +9223,13 @@
   "occultism:recipes/crushing/crushing/obsidian_dust": {
     "criteria": {
       "has_obsidian": "2025-01-31 13:05:40 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/brown_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_brown_stone_bricks": "2025-01-31 14:07:22 +0000",
+      "has_item2_domum_ornamentum_brown_stone_bricks": "2025-01-31 14:07:22 +0000"
     },
     "done": true
   },

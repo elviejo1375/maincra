@@ -2117,3 +2117,6 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [31Jan2025 14:05:55.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! 8.570141316483273,-0.975000000000037,6.3991196357824265
 [31Jan2025 14:05:57.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=747, y=98, z=1653} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [31Jan2025 14:05:57.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=747, y=98, z=1653}
+[31Jan2025 14:11:11.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Now You're Growing With Hoppers]
+[31Jan2025 14:12:03.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo lost connection: Disconnected
+[31Jan2025 14:12:03.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo left the game
