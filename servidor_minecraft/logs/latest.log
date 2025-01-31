@@ -2064,3 +2064,7 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [31Jan2025 12:36:16.219] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [31Jan2025 12:44:53.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo lost connection: Disconnected
 [31Jan2025 12:44:53.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo left the game
+[31Jan2025 12:50:30.047] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player UnViejitoFeo is 21d3863a-7177-4316-b2fb-41ea70504ee5
+[31Jan2025 12:50:42.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnViejitoFeo[/100.82.77.97:50291] logged in with entity id 8089 at (-1170.2339299461228, 72.0, 92.31010783064184)
+[31Jan2025 12:50:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo joined the game
+[31Jan2025 12:50:42.728] [Server thread/INFO] [Jade/]: Syncing config to UnViejitoFeo (21d3863a-7177-4316-b2fb-41ea70504ee5)

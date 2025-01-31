@@ -5724,15 +5724,21 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_deepslate": {
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
-      "has_item": "2025-01-31 12:34:36 +0000"
+      "has_rotten_flesh": "2025-01-31 12:14:52 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+  "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
-      "has_paper": "2025-01-31 12:32:44 +0000"
+      "has_any_ingredient": "2025-01-31 12:14:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-31 12:17:03 +0000"
     },
     "done": true
   },
@@ -5742,15 +5748,57 @@
     },
     "done": true
   },
-  "lootr:1cart": {
+  "croptopia:recipes/misc/meringue": {
     "criteria": {
-      "opened_cart": "2025-01-31 12:20:24 +0000"
+      "has_egg": "2025-01-31 12:17:14 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+  "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+      "has_any_ingredient": "2025-01-31 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-31 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-31 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-01-31 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-01-31 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-01-31 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-31 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-31 12:17:14 +0000"
     },
     "done": true
   },
@@ -5760,153 +5808,27 @@
     },
     "done": true
   },
-  "computercraft:recipes/redstone/computer_advanced": {
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
     "criteria": {
-      "has_components": "2025-01-31 12:29:37 +0000"
+      "has_item": "2025-01-31 12:17:25 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
     "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+      "has_item": "2025-01-31 12:17:25 +0000"
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+  "alltheores:recipes/misc/raw_nickel_block": {
     "criteria": {
-      "paper": "2025-01-31 12:32:44 +0000"
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-01-31 12:17:25 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/campfire_toast": {
+  "lootr:1cart": {
     "criteria": {
-      "has_bread": "2025-01-31 12:36:06 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-01-31 12:23:34 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/blueprint_paper": {
-    "criteria": {
-      "has_paper": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-01-31 12:23:16 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
-    "criteria": {
-      "paper": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cheeseburger": {
-    "criteria": {
-      "has_bread": "2025-01-31 12:36:06 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_smoking_bread": {
-    "criteria": {
-      "has_bread": "2025-01-31 12:36:06 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/clibano_core": {
-    "criteria": {
-      "has_darkstone": "2025-01-31 12:30:08 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/meringue": {
-    "criteria": {
-      "has_egg": "2025-01-31 12:17:14 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dreamwood_wand": {
-    "criteria": {
-      "has_item": "2025-01-31 12:34:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-01-31 12:14:52 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:recipes/misc/central_rune_holder": {
-    "criteria": {
-      "criterion0": "2025-01-31 12:31:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-01-31 12:25:28 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_mossy": {
-    "criteria": {
-      "has_item": "2025-01-31 12:34:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
-    "criteria": {
-      "has_darkstone": "2025-01-31 12:30:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-31 12:25:28 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/experience_crystal": {
-    "criteria": {
-      "criterion1": "2025-01-31 12:31:48 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
-    "criteria": {
-      "has_paper": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-01-31 12:27:00 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
-    "criteria": {
-      "has_paper": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/uranium_dust_from_raw": {
-    "criteria": {
-      "has_raw_uranium": "2025-01-31 12:23:16 +0000"
+      "opened_cart": "2025-01-31 12:20:24 +0000"
     },
     "done": true
   },
@@ -5916,21 +5838,39 @@
     },
     "done": true
   },
-  "apotheosis:affix/rare_gem": {
+  "computercraft:recipes/redstone/pocket_computer_normal": {
     "criteria": {
-      "gem": "2025-01-31 12:27:00 +0000"
+      "has_apple": "2025-01-31 12:20:34 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+  "alltheores:recipes/misc/uranium_ingot_from_raw_blasting": {
     "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+      "has_item": "2025-01-31 12:23:16 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/food/toast_from_bread": {
+  "occultism:recipes/crushing/crushing/uranium_dust_from_raw": {
     "criteria": {
-      "has_bread": "2025-01-31 12:36:06 +0000"
+      "has_raw_uranium": "2025-01-31 12:23:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-31 12:23:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_uranium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-01-31 12:23:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-31 12:23:34 +0000"
     },
     "done": true
   },
@@ -5940,21 +5880,183 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
+  "alltheores:recipes/misc/raw_lead_block": {
     "criteria": {
-      "deep_dark": "2025-01-31 12:38:30 +0000"
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-01-31 12:23:34 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+  "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+      "has_raw_lead": "2025-01-31 12:23:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-31 12:25:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-31 12:25:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-31 12:26:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_platinum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2025-01-31 12:26:03 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/platinum_dust_from_raw": {
+    "criteria": {
+      "has_raw_platinum": "2025-01-31 12:26:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-31 12:26:03 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-31 12:27:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-01-31 12:27:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-01-31 12:27:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-01-31 12:28:58 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-01-31 12:29:37 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/clibano_core": {
+    "criteria": {
+      "has_darkstone": "2025-01-31 12:30:08 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
+    "criteria": {
+      "has_darkstone": "2025-01-31 12:30:08 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/arcane_chiseled_darkstone": {
+    "criteria": {
+      "has_darkstone": "2025-01-31 12:30:08 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/central_rune_holder": {
+    "criteria": {
+      "criterion0": "2025-01-31 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/experience_crystal": {
+    "criteria": {
+      "criterion1": "2025-01-31 12:31:48 +0000"
     },
     "done": true
   },
   "silentgear:recipes/misc/emerald_from_shards": {
     "criteria": {
       "has_item": "2025-01-31 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-01-31 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-31 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/emerald_chain": {
+    "criteria": {
+      "recipe_condition": "2025-01-31 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-01-31 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2025-01-31 12:31:48 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2025-01-31 12:32:44 +0000"
     },
     "done": true
   },
@@ -5970,18 +6072,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-31 12:17:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-01-31 12:32:44 +0000"
@@ -5991,18 +6081,6 @@
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-01-31 12:17:25 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-01-31 12:23:16 +0000"
     },
     "done": true
   },
@@ -6018,69 +6096,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/raw_lead_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-01-31 12:23:34 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
-    "criteria": {
-      "has_emerald": "2025-01-31 12:31:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg": {
-    "criteria": {
-      "fried_egg": "2025-01-31 12:17:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/twig_wand": {
-    "criteria": {
-      "has_item": "2025-01-31 12:34:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/platinum_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-01-31 12:26:03 +0000"
-    },
-    "done": true
-  },
   "rftoolsbuilder:recipes/misc/vehicle_card": {
     "criteria": {
       "paper": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-01-31 12:17:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-31 12:14:52 +0000"
     },
     "done": true
   },
@@ -6090,27 +6108,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/raw_platinum_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2025-01-31 12:26:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-01-31 12:31:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -6120,93 +6120,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:eggs": "2025-01-31 12:17:14 +0000"
-    },
-    "done": true
-  },
   "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
       "has_paper": "2025-01-31 12:32:44 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-01-31 12:17:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/egg_roll": {
-    "criteria": {
-      "has_egg": "2025-01-31 12:17:14 +0000"
-    },
-    "done": true
-  },
   "domum_ornamentum:recipes/tools/paper_extra": {
     "criteria": {
       "has_material": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
-  "computercraft:recipes/redstone/pocket_computer_normal": {
-    "criteria": {
-      "has_apple": "2025-01-31 12:20:34 +0000"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/emerald_chain": {
-    "criteria": {
-      "recipe_condition": "2025-01-31 12:31:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
-    "criteria": {
-      "has_raw_lead": "2025-01-31 12:23:34 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/platinum_dust_from_raw": {
-    "criteria": {
-      "has_raw_platinum": "2025-01-31 12:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chilli_relleno": {
-    "criteria": {
-      "has_egg": "2025-01-31 12:17:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_uranium_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-01-31 12:23:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/scrambled_eggs": {
-    "criteria": {
-      "has_egg": "2025-01-31 12:17:14 +0000"
     },
     "done": true
   },
@@ -6222,9 +6144,39 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
     "criteria": {
-      "has_emerald_gem": "2025-01-31 12:31:48 +0000"
+      "has_paper": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-01-31 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-01-31 12:34:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-01-31 12:34:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-01-31 12:34:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-01-31 12:34:36 +0000"
     },
     "done": true
   },
@@ -6234,21 +6186,111 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+  "croptopia:recipes/campfire_toast": {
     "criteria": {
-      "fried_egg": "2025-01-31 12:17:14 +0000"
+      "has_bread": "2025-01-31 12:36:06 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+  "croptopia:recipes/cheeseburger": {
     "criteria": {
-      "has_paper": "2025-01-31 12:32:44 +0000"
+      "has_bread": "2025-01-31 12:36:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
-      "has_egg": "2025-01-31 12:17:14 +0000"
+      "has_bread": "2025-01-31 12:36:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-01-31 12:36:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-01-31 12:38:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
@@ -6258,33 +6300,15 @@
     },
     "done": true
   },
-  "silentgear:recipes/misc/emerald_shard": {
-    "criteria": {
-      "has_item": "2025-01-31 12:31:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-01-31 12:28:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/boss": {
-    "criteria": {
-      "sword": "2025-01-31 12:27:00 +0000"
     },
     "done": true
   },
@@ -6300,33 +6324,393 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/platinum_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-01-31 12:26:03 +0000"
-    },
-    "done": true
-  },
-  "rftoolspower:recipes/rftoolspower/powercell_card": {
-    "criteria": {
-      "paper": "2025-01-31 12:32:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-01-31 12:43:25 +0000"
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/building_blocks/arcane_chiseled_darkstone": {
+  "additionallanterns:recipes/misc/copper_chain": {
     "criteria": {
-      "has_darkstone": "2025-01-31 12:30:08 +0000"
+      "recipe_condition": "2025-01-31 12:55:06 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/raw_nickel_block": {
+  "alltheores:recipes/misc/peridot_from_hammer_crushing": {
     "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-01-31 12:17:25 +0000"
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/mead": {
+    "criteria": {
+      "has_honey": "2025-01-31 12:55:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/basic/casing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:56:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "dyenamics:recipes/misc/honey_dye": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-31 12:55:41 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
+    "criteria": {
+      "has_graphite_ingot": "2025-01-31 12:56:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-31 12:55:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-01-31 12:55:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/kvasir_mead": {
+    "criteria": {
+      "criterion1": "2025-01-31 12:55:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/crafting/graphite_component_to_storage": {
+    "criteria": {
+      "has_item": "2025-01-31 12:56:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-31 12:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-31 12:55:41 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/copper_block_1x": {
+    "criteria": {
+      "has_copper_block": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-01-31 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-01-31 12:55:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lumium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-01-31 12:55:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ore_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-31 12:55:06 +0000"
     },
     "done": true
   },
