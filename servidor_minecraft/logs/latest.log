@@ -8656,3 +8656,21 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [31Jan2025 01:42:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Isn't It Iron Pick]
 [31Jan2025 01:44:32.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Stone Age]
 [31Jan2025 01:47:41.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -1.249554153833742,-9.91751831549783,-0.8034547777559808
+[31Jan2025 01:52:03.264] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=64, z=-42}
+[31Jan2025 01:52:03.273] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=64, z=-42}
+[31Jan2025 01:52:14.362] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=64, z=-42}
+[31Jan2025 01:52:15.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Ka-chink! 1]
+[31Jan2025 01:53:03.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement ['X' Marks the Spot]
+[31Jan2025 01:54:22.901] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Set 9-Chevron Address to -12-28-18-5-15-31-19-13-
+[31Jan2025 01:54:22.901] [Server thread/INFO] [net.povstalec.sgjourney.StargateJourney/]: Added Stargate -12-28-18-5-15-31-19-13- to BlockEntityList
+[31Jan2025 01:54:41.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo was kicked for floating too long!
+[31Jan2025 01:54:41.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo lost connection: Flying is not enabled on this server
+[31Jan2025 01:54:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo left the game
+[31Jan2025 01:54:41.558] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jan2025 01:54:55.377] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player UnViejitoFeo is 21d3863a-7177-4316-b2fb-41ea70504ee5
+[31Jan2025 01:55:07.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnViejitoFeo[/100.82.77.97:53077] logged in with entity id 5739 at (-935.6025924316401, 63.796735600668704, 178.04474150713548)
+[31Jan2025 01:55:07.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo joined the game
+[31Jan2025 01:55:08.069] [Server thread/INFO] [Jade/]: Syncing config to UnViejitoFeo (21d3863a-7177-4316-b2fb-41ea70504ee5)
+[31Jan2025 01:58:08.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Apothic Affixes]
+[31Jan2025 01:58:08.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [I Found It Underground]
+[31Jan2025 01:58:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Suit Up]
