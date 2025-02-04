@@ -2048,3 +2048,20 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [04Feb2025 06:12:44.437] [Server thread/INFO] [Jade/]: Syncing config to UnViejitoFeo (21d3863a-7177-4316-b2fb-41ea70504ee5)
 [04Feb2025 06:12:51.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9398ms or 187 ticks behind
 [04Feb2025 06:18:17.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Those'll Do For Now]
+[04Feb2025 06:19:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Construction Paper]
+[04Feb2025 06:20:25.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Handyman]
+[04Feb2025 06:21:43.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Crimson Iron]
+[04Feb2025 06:22:45.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -1.6003234413817609,-0.45000000000001705,10.310044914955284
+[04Feb2025 06:22:47.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -2.2866289314147252,-0.6750000000000256,10.899135288874362
+[04Feb2025 06:23:44.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Unknown Technology]
+[04Feb2025 06:25:06.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! 2.05256947784369,-0.45000000000001705,10.11331809703944
+[04Feb2025 06:25:27.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! 4.358072266196132,-0.22690000295639834,-9.290814365053336
+[04Feb2025 06:25:33.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! 6.895665434908324,2.159999999999968,-7.308647932069604
+[04Feb2025 06:25:38.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -1.9803420476534939,-0.5250000000000199,-10.22080145123428
+[04Feb2025 06:25:43.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo moved too quickly! -5.771613436844746,-0.45000000000001705,-8.653455250810756
+[04Feb2025 06:29:56.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Idkatbloo the Rock Smasher'/4596, l='ServerLevel[world]', x=-1325.50, y=-39.13, z=-193.51] died: Idkatbloo the Rock Smasher was slain by UnViejitoFeo
+[04Feb2025 06:29:57.865] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[04Feb2025 06:30:29.871] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[04Feb2025 06:34:55.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Close Quarters]
+[04Feb2025 06:38:35.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo lost connection: Disconnected
+[04Feb2025 06:38:35.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo left the game
