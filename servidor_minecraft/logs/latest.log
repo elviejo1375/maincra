@@ -2054,3 +2054,9 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [05Feb2025 01:01:05.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [05Feb2025 01:02:18.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Cover Me with Diamonds]
 [05Feb2025 01:02:29.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Hidden in the Depths]
+[05Feb2025 01:08:50.975] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[05Feb2025 01:10:41.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has completed the challenge [Return to Sender]
+[05Feb2025 01:12:32.794] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 night_vision_goggles' on spawned entity 'Skeleton['Skeleton'/5749, l='ServerLevel[world]', x=-299.50, y=46.00, z=1090.50, removed=DISCARDED]'
+[05Feb2025 01:12:41.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Blaze Gold]
+[05Feb2025 01:12:50.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [The First Explosion (of many?)]
+[05Feb2025 01:14:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has completed the challenge [Hot Tourist Destinations]
