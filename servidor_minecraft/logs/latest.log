@@ -2066,3 +2066,9 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [05Feb2025 01:31:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Refined Storage]
 [05Feb2025 01:32:20.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Connecting]
 [05Feb2025 01:33:22.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Drives]
+[05Feb2025 01:40:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Viewing items]
+[05Feb2025 01:40:34.857] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
+[05Feb2025 01:47:42.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [First Age]
+[05Feb2025 01:54:26.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo has made the advancement [Upgrading your Grid]
+[05Feb2025 01:55:46.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnViejitoFeo lost connection: Disconnected
+[05Feb2025 01:55:46.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnViejitoFeo left the game

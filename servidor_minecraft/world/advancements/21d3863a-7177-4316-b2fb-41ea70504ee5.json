@@ -10676,6 +10676,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/blue_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -10748,6 +10754,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-02-05 01:02:29 +0000"
@@ -10769,6 +10781,12 @@
   "silentgear:recipes/misc/blaze_gold_dust": {
     "criteria": {
       "has_item": "2025-02-05 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/blue_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -10845,6 +10863,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/purple_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/reinforced_brick_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -10857,6 +10881,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -10866,6 +10896,13 @@
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_lime": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/roan_stone_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_roan_stone_bricks": "2025-02-05 01:44:53 +0000",
+      "has_item1_domum_ornamentum_roan_stone_bricks": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -10893,6 +10930,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/thermostat_module": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -10914,6 +10957,18 @@
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-05 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/yellorium_from_raw": {
+    "criteria": {
+      "has_item": "2025-02-05 01:50:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
@@ -10953,9 +11008,39 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/crafting_grid/magenta_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/liquid_hopper": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/red_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/orange_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11001,6 +11086,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/blaze_gold_dust_smelting": {
     "criteria": {
       "has_item": "2025-02-05 01:12:41 +0000"
@@ -11013,6 +11104,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/green_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -11022,6 +11119,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_relay": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/brown_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11133,6 +11236,12 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2025-02-05 01:33:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
       "has_fruit": "2025-02-05 01:15:35 +0000"
@@ -11148,6 +11257,12 @@
   "pneumaticcraft:recipes/misc/wall_lamp_red": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/purple_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11169,6 +11284,18 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/purple_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_detector": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -11178,6 +11305,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_detector": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
@@ -11205,9 +11338,33 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/lime_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/pressure_tube": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/light_gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/pink_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11232,6 +11389,12 @@
   "expatternprovider:recipes/misc/silicon_block": {
     "criteria": {
       "has_item": "2025-02-05 01:20:41 +0000"
+    },
+    "done": true
+  },
+  "extradisks:recipes/misc/raw_withering_processor": {
+    "criteria": {
+      "has_binding": "2025-02-05 01:42:15 +0000"
     },
     "done": true
   },
@@ -11325,9 +11488,27 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_nickel_block": "2025-02-05 01:50:00 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/gray_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/gray_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11340,6 +11521,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/green_relay": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11361,15 +11548,39 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/black_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/green_detector": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/light_gray_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/white_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/tuff_1x": {
+    "criteria": {
+      "has_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
@@ -11427,6 +11638,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -11460,6 +11677,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/blue_crafter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/green_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11523,6 +11746,18 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/light_gray_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/blue_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -11532,6 +11767,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -11607,6 +11848,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/orange_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -11628,6 +11875,18 @@
   "pneumaticcraft:recipes/misc/vortex_cannon": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/orange_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11733,6 +11992,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/yellow_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/red_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -11769,9 +12040,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/yellow_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-05 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/black_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -11790,6 +12073,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/black_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -11883,6 +12172,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/cyan_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -11931,6 +12226,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/netherite_chain": {
     "criteria": {
       "recipe_condition": "2025-02-05 01:12:39 +0000"
@@ -11946,6 +12247,12 @@
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-05 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/brown_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -11967,6 +12274,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/cyan_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/omnidirectional_hopper": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -11979,6 +12292,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/green_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -11988,6 +12307,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_from_block": {
+    "criteria": {
+      "has_item": "2025-02-05 01:50:00 +0000"
     },
     "done": true
   },
@@ -12006,6 +12331,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/brown_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -12033,9 +12364,21 @@
     },
     "done": true
   },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-02-05 01:47:42 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -12099,6 +12442,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/pink_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_controller": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -12135,6 +12496,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/magenta_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/vortex_tube": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -12150,6 +12517,12 @@
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-05 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/blasting/yellorium_from_raw": {
+    "criteria": {
+      "has_item": "2025-02-05 01:50:39 +0000"
     },
     "done": true
   },
@@ -12249,6 +12622,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/misc/crafting/raw_yellorium_component_to_storage": {
+    "criteria": {
+      "has_item": "2025-02-05 01:50:39 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/cyan_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -12264,6 +12643,12 @@
   "pneumaticcraft:recipes/misc/minigun": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
@@ -12294,6 +12679,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/purple_crafter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
@@ -12339,6 +12730,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2025-02-05 01:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-05 01:12:39 +0000"
@@ -12369,6 +12766,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/lime_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_white": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -12378,6 +12781,12 @@
   "pneumaticcraft:recipes/misc/pressure_chamber_wall": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
@@ -12423,6 +12832,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-05 01:11:35 +0000"
@@ -12450,6 +12865,12 @@
   "pneumaticcraft:recipes/misc/compressed_brick_wall": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -12501,6 +12922,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/crafting_grid/light_gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/logistics_core": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -12537,6 +12964,18 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/light_blue_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/pink_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -12546,6 +12985,12 @@
   "functionalstorage:recipes/misc/netherite_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-02-05 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/purple_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -12567,9 +13012,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/yellow_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/brown_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -12582,6 +13039,18 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/lime_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/red_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -12618,6 +13087,12 @@
   "pneumaticcraft:recipes/misc/small_tank": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/orange_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -12669,6 +13144,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/pink_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/pressure_chamber_valve": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -12705,9 +13186,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/crafting_grid/cyan_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-05 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/yellow_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -12795,9 +13288,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/crafting_grid/red_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-02-05 01:02:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
@@ -12831,6 +13336,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/magenta_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -12840,6 +13351,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-05 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -12885,6 +13402,12 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-02-05 01:47:42 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -12915,9 +13438,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/white_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/lime_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -12987,6 +13522,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/fluid_grid/white_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -13011,6 +13552,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/green_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -13020,6 +13567,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/magenta_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -13071,6 +13624,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/gray_detector": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
@@ -13095,6 +13654,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/cyan_brick_extra": {
+    "criteria": {
+      "has_material": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/reinforced_stone": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
@@ -13116,6 +13681,18 @@
   "pneumaticcraft:recipes/misc/wall_lamp_yellow": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-05 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-02-05 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/blue_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -13155,9 +13732,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/red_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-05 01:30:28 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/black_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
     },
     "done": true
   },
@@ -13179,9 +13768,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/brown_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
@@ -13230,6 +13831,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-02-05 00:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-05 01:44:53 +0000"
     },
     "done": true
   },
@@ -13293,9 +13900,21 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/pattern_grid/green_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2025-02-05 01:40:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-05 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-05 01:47:45 +0000"
     },
     "done": true
   },
